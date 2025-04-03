@@ -1,0 +1,670 @@
+{
+  "Home": {
+    "section1": {
+      "title": "Lirisoft Vision Into Innovation ",
+      "description": "Fueled by a passion for digital transformation, we harness the latest technological breakthroughs to craft solutions that solve today’s challenges and future-proof your business. With deep insight into your industry and unique needs, we design smart, tailored strategies that drive growth and align with your long-term goals.",
+      "buttonText": "Request a Consultation",
+      "buttonIcon": true,
+      "imageSrc": "/backimage1.jpeg"
+    },
+    "section2": {
+      "backgroundColor": "#043A53",
+      "heading": {
+        "title": "Elite Teams",
+        "highlight": "& Expert Professionals"
+      },
+      "description": "Watch Our Video to See How We Tackle Business Challenges with Integrity and Deliver Quality Solutions on Time.",
+      "images": {
+        "left": "/bresis1.svg",
+        "center": "/backimage2.jpeg",
+        "right": "/bresis2.svg"
+      }
+    },
+    "section3": {
+      "buttonText": "Why choose us",
+      "heading": "We Make Your Work Effortless",
+      "description": "We get your business. By understanding your needs and staying ahead of market trends, we deliver smarter, tailored solutions that elevate your product.",
+      "features": [
+        {
+          "img": "/back-1.svg",
+          "title": "User Experience",
+          "desc": "Our certified experts ensure your product delivers a seamless, user-centered experience from start to finish."
+        },
+        {
+          "img": "/back-2.svg",
+          "title": "Web Development",
+          "desc": "No matter the platform, we deliver the perfect solution tailored to your needs."
+        },
+        {
+          "img": "/back-3.svg",
+          "title": "Cyber Security",
+          "desc": "Our solution safeguards your systems and data from threats like hacking and malware, ensuring protection and continuity in the digital world."
+        }
+      ]
+    },
+    "section4": {
+      "imageSrc": "/backimage3.jpeg",
+      "imageAlt": "Rectangle Image",
+      "title": "Comprehensive Care for",
+      "subtitle": "Your IT Ecosystem.",
+      "description": "Explore Our Portfolio to Discover Our Previous Projects.",
+      "buttonText": "Portfolio"
+    },
+    "section5": {
+      "heading": "Trust is at the Core of Everything We Do.",
+      "slides": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "userImage": "/user.png",
+          "userName": "Andrew Wilkins",
+          "userTitle": "Managing Director, ABC Company"
+        },
+        {
+          "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "userImage": "/user.png",
+          "userName": "Jane Doe",
+          "userTitle": "CEO, XYZ Corporation"
+        }
+      ]
+    },
+    "section6": {
+      "heading": {
+        "title": "Read our",
+        "highlight": "Case Studies"
+      },
+      "caseStudies": [
+        {
+          "id": 1,
+          "date": "23 Sep 2024",
+          "author": "Amanda Hugh",
+          "title": "What Makes an Authentic Employee Profile?",
+          "description": "I'm totally unconvinced that two people can find a person they haven't known previously...",
+          "image": "/backimage41.jpeg"
+        },
+        {
+          "id": 2,
+          "date": "17 Sep 2024",
+          "author": "Sofia Kent",
+          "title": "Why Does It Matter to be Authentic Employee?",
+          "description": "I'm totally unconvinced that two people can find a person they haven't known previously...",
+          "image": "/backimage42.jpeg"
+        },
+        {
+          "id": 3,
+          "date": "15 Aug 2024",
+          "author": "Jason Bone",
+          "title": "What Makes an Authentic Employee Profile?",
+          "description": "I'm totally unconvinced that two people can find a person they haven't known previously...",
+          "image": "/backimage43.jpeg"
+        }
+      ]
+    },
+    "section7": {
+      "title": "We are Committed to our customer service",
+      "buttonText": "Connect us",
+      "buttonIcon": {
+        "path": "M13 7l5 5-5 5M18 12H6"
+      },
+      "contactText": "Call us on 1800-123-4567",
+      "images": {
+        "yellowBar": {
+          "src": "./Icons.svg",
+          "style": "absolute left-[15px] top-[15px]"
+        },
+        "blueRounded": {
+          "src": "./Icons1.svg",
+          "style": "absolute left-[15px] top-[15px]"
+        },
+        "bottomIcon": {
+          "src": "./Icons2.svg",
+          "style": "absolute left-[5px] bottom-[20px]"
+        },
+        "background": "/backimage5.png"
+      }
+    },
+    "section8": {
+      "title": "Lirisoft",
+      "subtitleHighlight": ".",
+      "icons": [
+        "/SIcon1.svg",
+        "/SIcon2.svg",
+        "/SIcon3.svg"
+      ],
+      "description": "Since our founding in 2017, Lirisoft has specialized in IT consulting and software development. We empower non-IT organizations and software companies to enhance business performance and rapidly attract new customers.",
+      "menuItems": [
+        "Home",
+        "Solutions",
+        "Services",
+        "About",
+        "Contact"
+      ],
+      "about": {
+        "title": "About Us",
+        "email": "support@lirisoft.com"
+      }
+    }
+  },
+  "About": {
+    "section1": {
+      "title1": "What",
+      "highlight1": "drives",
+      "title2": "us",
+      "imageSrc": "/Rectangle18.png",
+      "imageAlt": "About Lirisoft",
+      "highlight2": "defines",
+      "title3": "us"
+    },
+    "section2": {
+      "heading": "About Us",
+      "description": "Founded in 2017, Lirisoft has been a provider of IT consulting and software development services. We have helped non-IT organizations and software product companies improve business performance and quickly win new customers.",
+      "listItems": [
+        "Help you create and manage any process for your business needs.",
+        "Improve your business performance, optimize customer service, and tap into digital transformation.",
+        "Expertise in Messaging, VoIP, Automation, Internet of Things and Computer Vision technologies."
+      ]
+    },
+    "section4": {
+      "images": [
+        {
+          "Image": "./Vector4.png",
+          "Text": "53+",
+          "Description": "Completed Projects"
+        },
+        {
+          "Image": "./Vector5.png",
+          "Text": "37M",
+          "Description": "Users Worldwide"
+        },
+        {
+          "Image": "./Vector6.png",
+          "Text": "4.3+",
+          "Description": "App Ratings"
+        }
+      ]
+    },
+    "section5": {
+      "title1": "Work Culture",
+      "highlight1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "title2": "",
+      "imageSrc": "/image.png",
+      "imageAlt": "Rectangle Image",
+      "highlight2": "Explore Opportunities",
+      "title3": ""
+    },
+    "section3": {
+      "title": "Our Current Partners",
+      "images": [
+        "./image1.png",
+        "./image2.png",
+        "./image3.png",
+        "./image4.png",
+        "./image5.png",
+        "./image6.png"
+      ],
+      "buttonText": "Know More"
+    }
+  },
+  "Service": {
+    "section1": {
+      "title1": "We help",
+      "highlight1": "companies",
+      "title2": "turn their",
+      "highlight2": "ideas",
+      "title3": "into products",
+      "imageSrc": "/serviceback1.png",
+      "imageAlt": "Service Background"
+    },
+    "section2": {
+      "title1": "Consulting Services",
+      "highlight1": "we offer",
+      "title2": "Invent, build, integrate, scale and upgrade your applications with Lirisoft! We have been harnessing digital technologies for the benefit of Fortune 500 businesses, mid and large enterprises, and startups across the variety of industries. We help you to build high-quality software solutions and products as well as deliver a wide range of related professional services.",
+      "imageSrc": "/brain-circuit.png",
+      "imageAlt": "Generative AI Services",
+      "highlight2": "Generative AI Services",
+      "title3": "Invent, build, integrate, scale and upgrade your applications with Lirisoft! We have been harnessing digital technologies for the benefit of Fortune 500 businesses, mid and large enterprises, and startups across the variety of industries. We help you to build high-quality software solutions and products as well as deliver a wide range of related professional services.",
+      "services": [
+        {
+          "name": "Generative AI Services",
+          "icon": "/brain-circuit.png",
+          "details": "Invent, build, integrate, scale and upgrade your applications with Lirisoft! We have been harnessing digital technologies for the benefit of Fortune 500 businesses, mid and large enterprises, and startups across the variety of industries. We help you to build high-quality software solutions and products as well as deliver a wide range of related professional services.",
+          "additionalDetails": "Generative AI Services help businesses automate tasks and generate insights using AI.",
+          "imageSrc": "/ai-service-image.png"
+        },
+        {
+          "name": "Data Science Consulting",
+          "icon": "/trending-up-down.png",
+          "details": "Our Data Science Consulting services empower businesses to extract actionable insights from their data. We use advanced analytics, machine learning, and predictive modeling to help you make data-driven decisions.",
+          "additionalDetails": "We specialize in building custom data pipelines, dashboards, and AI models tailored to your business needs.",
+          "imageSrc": "/data-science-image.png"
+        },
+        {
+          "name": "Solution Development And Evolution",
+          "icon": "/atom.png",
+          "details": "We provide end-to-end solution development services, from initial concept to deployment and beyond. Our team ensures your solutions evolve with your business needs.",
+          "additionalDetails": "Our expertise includes cloud integration, microservices architecture, and continuous delivery pipelines.",
+          "imageSrc": "/solution-development-image.png"
+        },
+        {
+          "name": "End-To-End Solution Development",
+          "icon": "/cable.png",
+          "details": "Our End-To-End Solution Development services cover every stage of the software lifecycle. From ideation to deployment, we ensure your product meets the highest standards.",
+          "additionalDetails": "We focus on scalability, performance, and user experience to deliver solutions that grow with your business.",
+          "imageSrc": "/end-to-end-image.png"
+        },
+        {
+          "name": "Data Science Research",
+          "icon": "/Database.png",
+          "details": "Our Data Science Research services explore innovative ways to leverage data for your business. We conduct in-depth research to uncover new opportunities and optimize existing processes.",
+          "additionalDetails": "Our team specializes in natural language processing, computer vision, and advanced statistical modeling.",
+          "imageSrc": "/data-research-image.png"
+        }
+      ]
+    },
+  "section3": {
+    "title1": "Software development",
+    "highlight1": "Custom",
+    "title2": "Invent, build, integrate, scale and upgrade your applications with Lirisoft! We have been harnessing digital technologies for the benefit of Fortune 500 businesses, mid and large enterprises, and startups across the variety of industries. We help you to build high-quality software solutions and products as well as deliver a wide range of related professional services.",
+    "imageSrc": "/serviceback2.png",
+    "imageAlt": "Service Page Image",
+    "highlight2": "",
+    "title3": ""
+  },
+  "section4": {
+    "title1": "we work",
+    "highlight1": "How",
+    "title2": "We bring together deep industry expertise and the latest IT advancements to deliver custom solutions and products that perfectly fit the needs of users.",
+    "imageSrc": "/back-image.png",
+    "imageAlt": "Service Page Image",
+    "highlight2": "1. Competitive & User Research",
+    "title3": "Competitive research can reveal trends in the marketplace that might have otherwise been missed. The ability to identify and predict trends is a huge asset for any business, helping to improve value proposition for customers."
+  },
+  "section5": {
+    "title1": "Industry Leading Managed",
+    "highlight1": "Services & Solutions",
+    "title2": "Our team can assist you in transforming your business through latest tech capabilities to stay ahead of the curve.",
+    "services": [
+      {
+        "imageSrc": "/sliders-vertical.png",
+        "imageAlt": "Flexible Engagement Models",
+        "title": "Flexible Engagement Models"
+      },
+      {
+        "imageSrc": "/ratio.png",
+        "imageAlt": "Mobile Development",
+        "title": "Mobile Development"
+      },
+      {
+        "imageSrc": "/headset.png",
+        "imageAlt": "Integrated & Dedicated Teams",
+        "title": "Integrated & Dedicated Teams"
+      },
+      {
+        "imageSrc": "/monitor-cog.png",
+        "imageAlt": "Custom Software Development",
+        "title": "Custom Software Development"
+      },
+      {
+        "imageSrc": "/check-check.png",
+        "imageAlt": "QA and Automation",
+        "title": "QA and Automation"
+      },
+      {
+        "imageSrc": "/chart-column.png",
+        "imageAlt": "Analytics and Review",
+        "title": "Analytics and Review"
+      },
+      {
+        "imageSrc": "/lightbulb.png",
+        "imageAlt": "Product Innovation & Technology",
+        "title": "Product Innovation & Technology"
+      },
+      {
+        "imageSrc": "/gauge.png",
+        "imageAlt": "Enterprise Solutions",
+        "title": "Enterprise Solutions"
+      },
+      {
+        "imageSrc": "/Vector.png",
+        "imageAlt": "Cloud Backup Systems",
+        "title": "Cloud Backup Systems"
+      }
+    ]
+  },
+  "section6": {
+    "title1": "Entrust your project to our",
+    "highlight1": "best team of professionals",
+    "title2": "",
+    "imageSrc": "",
+    "imageAlt": "",
+    "highlight2": "",
+    "title3": "Request Proposal",
+    "budgetOptions": [
+      {
+        "value": "low",
+        "label": "Less than $1,000"
+      },
+      {
+        "value": "medium",
+        "label": "$1,000 - $5,000"
+      },
+      {
+        "value": "high",
+        "label": "$5,000 - $10,000"
+      },
+      {
+        "value": "premium",
+        "label": "More than $10,000"
+      }
+    ]
+  }
+},
+  "Portfolio": {
+    "section1": {
+      "title1": "We help",
+      "highlight1": "companies",
+      "title2": "turn their",
+      "highlight2": "ideas",
+      "title3": "into",
+      "highlight3": "products",
+      "imageSrc": "/Videoplaceholder.png",
+      "imageAlt": "Portfolio Lirisoft"
+    },
+    "section3": {
+      "title1": "Our",
+      "highlight1": "Expertise",
+      "title2": "Your Success: Building a Path to",
+      "imageSrc": "/Group138.png",
+      "imageAlt": "Feature Icon",
+      "highlight2": "Excellence",
+      "title3": "For over half a decade, Lirisoft has been passionately engaged in offering all-inclusive IT solutions to clients from diverse industry verticals, empowering businesses to thrive in the digital era with confidence and innovation."
+    },
+    "section2": {
+      "title1": "Take a look at some of",
+      "highlight1": "our work",
+      "appSolutions": [
+        {
+          "title2": "Responsive App for Retail Store",
+          "highlight2": "UX / Angular / B2C",
+          "imageSrc": "/Rectangle1.png",
+          "imageAlt": "Responsive App for Retail Store"
+        },
+        {
+          "title2": "SaaS-Based App for Enterprise",
+          "highlight2": "UX / Angular / B2C",
+          "imageSrc": "/Rectangle2.png",
+          "imageAlt": "SaaS-Based App for Enterprise"
+        },
+        {
+          "title2": "Solution for Healthcare Software",
+          "highlight2": "UX / Angular / B2C",
+          "imageSrc": "/Rectangle3.png",
+          "imageAlt": "Solution for Healthcare Software"
+        },
+        {
+          "title2": "Smart Home App",
+          "highlight2": "UX / Angular / B2C",
+          "imageSrc": "/Rectangle4.png",
+          "imageAlt": "Smart Home App"
+        },
+        {
+          "title2": "Fitness App for Goal Setup",
+          "highlight2": "UX / Angular / B2C",
+          "imageSrc": "/Rectangle5.png",
+          "imageAlt": "Fitness App for Goal Setup"
+        },
+        {
+          "title2": "Event Management App",
+          "highlight2": "UX / Angular / B2C",
+          "imageSrc": "/Rectangle6.png",
+          "imageAlt": "Event Management App"
+        },
+        {
+          "title2": "Supply Chain Management",
+          "highlight2": "UX / Angular / B2C",
+          "imageSrc": "/Rectangle7.png",
+          "imageAlt": "Supply Chain Management"
+        },
+        {
+          "title2": "Financial Management App",
+          "highlight2": "UX / Angular / B2C",
+          "imageSrc": "/Rectangle8.png",
+          "imageAlt": "Financial Management App"
+        },
+        {
+          "title2": "Social Networking App",
+          "highlight2": "UX / Angular / B2C",
+          "imageSrc": "/Rectangle9.png",
+          "imageAlt": "Social Networking App"
+        }
+      ]
+    },
+    "section4": {
+      "title1": "The",
+      "highlight1": "Technology",
+      "title2": "we",
+      "highlight2": "Work",
+      "title3": "Know More",
+      "tabs": [
+        {
+          "src": "/Group106.png",
+          "title": "UX Design"
+        },
+        {
+          "src": "/Group107.png",
+          "title": "APP Development"
+        },
+        {
+          "src": "/Group108.png",
+          "title": "API Development"
+        },
+        {
+          "src": "/Group109.png",
+          "title": "Automation"
+        },
+        {
+          "src": "/Group110.png",
+          "title": "Cyber Security"
+        }
+      ]
+    },
+    "section5": {
+      "images": [
+        {
+          "Image": "./Vector4.png",
+          "Text": "53+",
+          "Description": "Completed Projects"
+        },
+        {
+          "Image": "./Vector5.png",
+          "Text": "37M",
+          "Description": "Users Worldwide"
+        },
+        {
+          "Image": "./Vector6.png",
+          "Text": "4.3+",
+          "Description": "App Ratings"
+        }
+      ]
+    },
+    "section6": {
+      "title1": "We",
+      "highlight1": "Cover",
+      "highlight2": "Industries",
+      "tabs": [
+        {
+          "src": "/Group146.png",
+          "title": "Fintech",
+          "description": "Helping financial businesses improve and automate the delivery and use of financial services."
+        },
+        {
+          "src": "/Group147.png",
+          "title": "Media and Entertainment",
+          "description": "Crafting superlative M&E solutions using the latest technology to revolutionize the media and entertainment industry."
+        },
+        {
+          "src": "/Group148.png",
+          "title": "Healthcare",
+          "description": "Transforming the future of healthcare with innovative technology solutions."
+        },
+        {
+          "src": "/Group149.png",
+          "title": "CPG Retail",
+          "description": "Building innovative technology solutions for consumer goods, retail and electronics businesses to help enhance customer digital experience."
+        },
+        {
+          "src": "/Group150.png",
+          "title": "Sports and Leisure",
+          "description": "We understand the sports landscape like no one and hence we use industry-leading technologies to revolutionize the gaming experience."
+        },
+        {
+          "src": "/Group151.png",
+          "title": "Manufacturing and Logistics",
+          "description": "Helping manufacturing, supply and logistics businesses reap higher profitability by building custom technology solutions."
+        },
+        {
+          "src": "/Group152.png",
+          "title": "Facilities Management",
+          "description": "Helping facilities management businesses in efficient and effective delivery of support services for the organizations they serve with our next generation technology solutions."
+        },
+        {
+          "src": "/Group153.png",
+          "title": "Social Networking",
+          "description": "Rendering result-oriented ideal technology for specific social media platforms to help clients reap all the business benefits of social media."
+        },
+        {
+          "src": "/Group154.png",
+          "title": "Human Resources",
+          "description": "Building robust technology solutions to streamline human resource operations of an organization."
+        }
+      ]
+    }
+  },
+  "Career": {
+    "section1": {
+      "title1": "If you're passionate about what you do, we want you on our team.",
+      "highlight1": "We are employee centric company.",
+      "title2": "Keyword",
+      "highlight2": "Search for opportunity...",
+      "title3": "Explore",
+      "expertiseOptions": [
+        {
+          "value": "engineering",
+          "label": "Engineering"
+        },
+        {
+          "value": "design",
+          "label": "Design"
+        },
+        {
+          "value": "marketing",
+          "label": "Marketing"
+        },
+        {
+          "value": "sales",
+          "label": "Sales"
+        }
+      ],
+      "locationOptions": [
+        {
+          "value": "new-york",
+          "label": "New York"
+        },
+        {
+          "value": "san-francisco",
+          "label": "San Francisco"
+        },
+        {
+          "value": "london",
+          "label": "London"
+        },
+        {
+          "value": "remote",
+          "label": "Remote"
+        }
+      ]
+    },
+    "section2": {
+      "title1": "Life at",
+      "highlight1": "Liri",
+      "imageSrc1": "carrer-1.png",
+      "imageAlt1": "Career 1",
+      "imageSrc2": "carrer-2.png",
+      "imageAlt2": "Career 2",
+      "imageSrc3": "carrer-3.png",
+      "imageAlt3": "Career 3",
+      "imageSrc4": "carrer-4.png",
+      "imageAlt4": "Career 4"
+    },
+    "section3": {
+      "title": "What we",
+      "highlight1": "Say!",
+      "imageSrc": "/backimage2.jpeg",
+      "imageAlt": "Background Image"
+    }
+  },
+  "Contact": {
+    "section1": {
+      "title1": "Help is here when you need it",
+      "highlight1": "Support is available seven days a week. Contact our team.",
+      "contactSupport": "Email support 7 days a week, with live chat on weekdays from 9AM-6PM Eastern Time.",
+      "connectWithUs": "Connect with us on social media.",
+      "corporateOffice": "California, USA",
+      "corporateOfficeemail": "support@lirisoft.com",
+      "indiaOffice": "1660, 18th Cross Rd, MC Layout, Vijayanagar, Bengaluru",
+      "indinofficeemail": "support.india@lirisoft.com",
+      "socialLinks": {
+        "twitter": "https://twitter.com/yourprofile",
+        "instagram": "https://instagram.com/yourprofile",
+        "linkedin": "https://linkedin.com/in/yourprofile"
+      }
+    },
+    "section2": {
+      "title": "Write",
+      "highlight": "Us",
+      "buttonText": "Send Message",
+      "services": [
+        "Web Development",
+        "SEO Optimization",
+        "Digital Marketing",
+        "Other"
+      ]
+    },
+    "section3": {
+      "title1": "Do you have",
+      "highlight1": "Questions?",
+      "title2": "We have answers (well, most of the times!)",
+      "imageSrc": "./Group41.png",
+      "imageAlt": "Contact Us",
+      "highlight2": "Below you'll find answers to the most common questions you may have on AdEspresso & Online Advertising. Also, please feel free to check out our. If you still can't find the answer you're looking for, just Contact us!",
+      "title3": "",
+      "questions": [
+        "Do I need a website in order to run online marketing?",
+        "How will Lirisoft help me?",
+        "What services do you offer?",
+        "How do I know which subscription is best for me?"
+      ]
+    }
+  },
+  "Product": {
+    "section1": {
+      "title": "Our Products",
+      "description": "Explore the innovative products we offer to enhance your business."
+    },
+    "section2": {
+      "title": "Product A",
+      "description": "A cutting-edge solution for modern businesses."
+    },
+    "section3": {
+      "title": "Product B",
+      "description": "Streamline your operations with our advanced tools."
+    },
+    "section4": {
+      "title": "Product C",
+      "description": "Enhance productivity with our user-friendly software."
+    },
+    "section5": {
+      "title": "Product D",
+      "description": "Secure and scalable solutions for your enterprise."
+    }
+  }
+}
