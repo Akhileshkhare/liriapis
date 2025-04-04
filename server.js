@@ -11,7 +11,7 @@ const port = 3005;
 
 const allowedOrigins = [
     'http://localhost:3000',
-    'https://lirisoftwebsite.onrender.com'
+    'https://lirisoftwebsite.onrender.com/'
   ];
   
   const corsOptions = {
@@ -24,18 +24,13 @@ const allowedOrigins = [
         callback(new Error('Not allowed by CORS'));
       }
     },
-    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'], // Include OPTIONS method
+    methods: ['GET', 'POST', 'PUT', 'DELETE'],
     allowedHeaders: ['Content-Type', 'Authorization'],
-    exposedHeaders: ['Content-Type', 'Authorization'], // Expose headers if needed
     credentials: true,
     optionsSuccessStatus: 204
   };
   
   app.use(cors(corsOptions));
-
-// Handle preflight requests explicitly
-app.options('*', cors(corsOptions));
-
 app.use(bodyParser.json());
 app.use(express.json());
 // Import homepage API
@@ -43,19 +38,19 @@ require("./api/homepage")(app);
 
 const SECRET_KEY = "lirisoft"; // Replace with a secure key
 
-// Configure multer for file uploads
-const upload = multer({
-  dest: "uploads/", // Directory to store uploaded files
-  limits: { fileSize: 5 * 1024 * 1024 }, // Limit file size to 5MB
-  fileFilter: (req, file, cb) => {
-    const allowedTypes = ["image/jpeg", "image/png", "image/gif"];
-    if (allowedTypes.includes(file.mimetype)) {
-      cb(null, true);
-    } else {
-      cb(new Error("Invalid file type. Only JPEG, PNG, and GIF are allowed."));
-    }
-  },
-});
+// // Configure multer for file uploads
+// const upload = multer({
+//   dest: "uploads/", // Directory to store uploaded files
+//   limits: { fileSize: 5 * 1024 * 1024 }, // Limit file size to 5MB
+//   fileFilter: (req, file, cb) => {
+//     const allowedTypes = ["image/jpeg", "image/png", "image/gif"];
+//     if (allowedTypes.includes(file.mimetype)) {
+//       cb(null, true);
+//     } else {
+//       cb(new Error("Invalid file type. Only JPEG, PNG, and GIF are allowed."));
+//     }
+//   },
+// });
 
 // Default route
 app.get("/", (req, res) => {
@@ -80,40 +75,40 @@ app.post("/api/login", (req, res) => {
   }
 });
 
-// Endpoint to handle image upload
-app.post("/api/upload", upload.single("image"), (req, res) => {
-  if (!req.file) {
-    return res.status(400).json({ message: "No file uploaded" });
-  }
+// // Endpoint to handle image upload
+// app.post("/api/upload", upload.single("image"), (req, res) => {
+//   if (!req.file) {
+//     return res.status(400).json({ message: "No file uploaded" });
+//   }
 
-  const filePath = path.join(__dirname, req.file.path);
+//   const filePath = path.join(__dirname, req.file.path);
 
-  // Read and update api/homepage.json
-  const homepagePath = path.join(__dirname, "api", "homepage.json");
-  fs.readFile(homepagePath, "utf8", (err, data) => {
-    if (err) {
-      return res.status(500).json({ message: "Error reading api/homepage.json" });
-    }
+//   // Read and update api/homepage.json
+//   const homepagePath = path.join(__dirname, "api", "homepage.json");
+//   fs.readFile(homepagePath, "utf8", (err, data) => {
+//     if (err) {
+//       return res.status(500).json({ message: "Error reading api/homepage.json" });
+//     }
 
-    let homepageData;
-    try {
-      homepageData = JSON.parse(data);
-    } catch (parseErr) {
-      return res.status(500).json({ message: "Error parsing api/homepage.json" });
-    }
+//     let homepageData;
+//     try {
+//       homepageData = JSON.parse(data);
+//     } catch (parseErr) {
+//       return res.status(500).json({ message: "Error parsing api/homepage.json" });
+//     }
 
-    // Save the uploaded file path
-    homepageData.imagePath = filePath;
+//     // Save the uploaded file path
+//     homepageData.imagePath = filePath;
 
-    fs.writeFile(homepagePath, JSON.stringify(homepageData, null, 2), (writeErr) => {
-      if (writeErr) {
-        return res.status(500).json({ message: "Error saving to api/homepage.json" });
-      }
+//     fs.writeFile(homepagePath, JSON.stringify(homepageData, null, 2), (writeErr) => {
+//       if (writeErr) {
+//         return res.status(500).json({ message: "Error saving to api/homepage.json" });
+//       }
 
-      res.status(200).json({ message: "File uploaded successfully", filePath });
-    });
-  });
-});
+//       res.status(200).json({ message: "File uploaded successfully", filePath });
+//     });
+//   });
+// });
 
 // Start the server
 app.listen(port, () => {
