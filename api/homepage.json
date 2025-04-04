@@ -260,104 +260,104 @@
         }
       ]
     },
-  "section3": {
-    "title1": "Software development",
-    "highlight1": "Custom",
-    "title2": "Invent, build, integrate, scale and upgrade your applications with Lirisoft! We have been harnessing digital technologies for the benefit of Fortune 500 businesses, mid and large enterprises, and startups across the variety of industries. We help you to build high-quality software solutions and products as well as deliver a wide range of related professional services.",
-    "imageSrc": "/serviceback2.png",
-    "imageAlt": "Service Page Image",
-    "highlight2": "",
-    "title3": ""
+    "section3": {
+      "title1": "Software development",
+      "highlight1": "Custom",
+      "title2": "Invent, build, integrate, scale and upgrade your applications with Lirisoft! We have been harnessing digital technologies for the benefit of Fortune 500 businesses, mid and large enterprises, and startups across the variety of industries. We help you to build high-quality software solutions and products as well as deliver a wide range of related professional services.",
+      "imageSrc": "/serviceback2.png",
+      "imageAlt": "Service Page Image",
+      "highlight2": "",
+      "title3": ""
+    },
+    "section4": {
+      "title1": "we work",
+      "highlight1": "How",
+      "title2": "We bring together deep industry expertise and the latest IT advancements to deliver custom solutions and products that perfectly fit the needs of users.",
+      "imageSrc": "/back-image.png",
+      "imageAlt": "Service Page Image",
+      "highlight2": "1. Competitive & User Research",
+      "title3": "Competitive research can reveal trends in the marketplace that might have otherwise been missed. The ability to identify and predict trends is a huge asset for any business, helping to improve value proposition for customers."
+    },
+    "section5": {
+      "title1": "Industry Leading Managed",
+      "highlight1": "Services & Solutions",
+      "title2": "Our team can assist you in transforming your business through latest tech capabilities to stay ahead of the curve.",
+      "services": [
+        {
+          "imageSrc": "/sliders-vertical.png",
+          "imageAlt": "Flexible Engagement Models",
+          "title": "Flexible Engagement Models"
+        },
+        {
+          "imageSrc": "/ratio.png",
+          "imageAlt": "Mobile Development",
+          "title": "Mobile Development"
+        },
+        {
+          "imageSrc": "/headset.png",
+          "imageAlt": "Integrated & Dedicated Teams",
+          "title": "Integrated & Dedicated Teams"
+        },
+        {
+          "imageSrc": "/monitor-cog.png",
+          "imageAlt": "Custom Software Development",
+          "title": "Custom Software Development"
+        },
+        {
+          "imageSrc": "/check-check.png",
+          "imageAlt": "QA and Automation",
+          "title": "QA and Automation"
+        },
+        {
+          "imageSrc": "/chart-column.png",
+          "imageAlt": "Analytics and Review",
+          "title": "Analytics and Review"
+        },
+        {
+          "imageSrc": "/lightbulb.png",
+          "imageAlt": "Product Innovation & Technology",
+          "title": "Product Innovation & Technology"
+        },
+        {
+          "imageSrc": "/gauge.png",
+          "imageAlt": "Enterprise Solutions",
+          "title": "Enterprise Solutions"
+        },
+        {
+          "imageSrc": "/Vector.png",
+          "imageAlt": "Cloud Backup Systems",
+          "title": "Cloud Backup Systems"
+        }
+      ]
+    },
+    "section6": {
+      "title1": "Entrust your project to our",
+      "highlight1": "best team of professionals",
+      "title2": "",
+      "imageSrc": "",
+      "imageAlt": "",
+      "highlight2": "",
+      "title3": "Request Proposal",
+      "budgetOptions": [
+        {
+          "value": "low",
+          "label": "Less than $1,000"
+        },
+        {
+          "value": "medium",
+          "label": "$1,000 - $5,000"
+        },
+        {
+          "value": "high",
+          "label": "$5,000 - $10,000"
+        },
+        {
+          "value": "premium",
+          "label": "More than $10,000"
+        }
+      ]
+    }
   },
-  "section4": {
-    "title1": "we work",
-    "highlight1": "How",
-    "title2": "We bring together deep industry expertise and the latest IT advancements to deliver custom solutions and products that perfectly fit the needs of users.",
-    "imageSrc": "/back-image.png",
-    "imageAlt": "Service Page Image",
-    "highlight2": "1. Competitive & User Research",
-    "title3": "Competitive research can reveal trends in the marketplace that might have otherwise been missed. The ability to identify and predict trends is a huge asset for any business, helping to improve value proposition for customers."
-  },
-  "section5": {
-    "title1": "Industry Leading Managed",
-    "highlight1": "Services & Solutions",
-    "title2": "Our team can assist you in transforming your business through latest tech capabilities to stay ahead of the curve.",
-    "services": [
-      {
-        "imageSrc": "/sliders-vertical.png",
-        "imageAlt": "Flexible Engagement Models",
-        "title": "Flexible Engagement Models"
-      },
-      {
-        "imageSrc": "/ratio.png",
-        "imageAlt": "Mobile Development",
-        "title": "Mobile Development"
-      },
-      {
-        "imageSrc": "/headset.png",
-        "imageAlt": "Integrated & Dedicated Teams",
-        "title": "Integrated & Dedicated Teams"
-      },
-      {
-        "imageSrc": "/monitor-cog.png",
-        "imageAlt": "Custom Software Development",
-        "title": "Custom Software Development"
-      },
-      {
-        "imageSrc": "/check-check.png",
-        "imageAlt": "QA and Automation",
-        "title": "QA and Automation"
-      },
-      {
-        "imageSrc": "/chart-column.png",
-        "imageAlt": "Analytics and Review",
-        "title": "Analytics and Review"
-      },
-      {
-        "imageSrc": "/lightbulb.png",
-        "imageAlt": "Product Innovation & Technology",
-        "title": "Product Innovation & Technology"
-      },
-      {
-        "imageSrc": "/gauge.png",
-        "imageAlt": "Enterprise Solutions",
-        "title": "Enterprise Solutions"
-      },
-      {
-        "imageSrc": "/Vector.png",
-        "imageAlt": "Cloud Backup Systems",
-        "title": "Cloud Backup Systems"
-      }
-    ]
-  },
-  "section6": {
-    "title1": "Entrust your project to our",
-    "highlight1": "best team of professionals",
-    "title2": "",
-    "imageSrc": "",
-    "imageAlt": "",
-    "highlight2": "",
-    "title3": "Request Proposal",
-    "budgetOptions": [
-      {
-        "value": "low",
-        "label": "Less than $1,000"
-      },
-      {
-        "value": "medium",
-        "label": "$1,000 - $5,000"
-      },
-      {
-        "value": "high",
-        "label": "$5,000 - $10,000"
-      },
-      {
-        "value": "premium",
-        "label": "More than $10,000"
-      }
-    ]
-  }
-},
   "Portfolio": {
     "section1": {
       "title1": "We help",
@@ -666,5 +666,6 @@
       "title": "Product D",
       "description": "Secure and scalable solutions for your enterprise."
     }
-  }
+  },
+  "imagePath": ""
 }
