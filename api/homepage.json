@@ -1,11 +1,11 @@
 {
   "Home": {
     "section1": {
-      "title": "Lirisoft Vision Into Innovation ",
-      "description": "Fueled by a passion for digital transformation, we harness the latest technological breakthroughs to craft solutions that solve today’s challenges and future-proof your business. With deep insight into your industry and unique needs, we design smart, tailored strategies that drive growth and align with your long-term goals.",
+      "title": "Lirisoft Vision Into Innovation",
+      "description": "Fueled by a passion for digital transformation, we harness the latest technological breakthroughs to craft solutions that solve today’s challenges and future-proof your business. With deep insight into your industry and unique needs, we design smart, tailored strategies that drive growth and align with your long-term goals. 1234",
       "buttonText": "Request a Consultation",
       "buttonIcon": true,
-      "imageSrc": "/backimage1.jpeg"
+      "imageSrc": "http://localhost:3005/uploads/image-1744028638384-770791037.jpeg"
     },
     "section2": {
       "backgroundColor": "#043A53",
@@ -15,9 +15,15 @@
       },
       "description": "Watch Our Video to See How We Tackle Business Challenges with Integrity and Deliver Quality Solutions on Time.",
       "images": {
-        "left": "/bresis1.svg",
-        "center": "/backimage2.jpeg",
-        "right": "/bresis2.svg"
+        "left": {
+          "src": "/bresis1.svg"
+        },
+        "center": {
+          "src": "/backimage2.jpeg"
+        },
+        "right": {
+          "src": "/bresis2.svg"
+        }
       }
     },
     "section3": {
@@ -55,15 +61,15 @@
       "slides": [
         {
           "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "userImage": "/user.png",
+          "userImage": "http://localhost:3005/uploads/image-1744038142786-526696582.png",
           "userName": "Andrew Wilkins",
           "userTitle": "Managing Director, ABC Company"
         },
         {
           "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-          "userImage": "/user.png",
-          "userName": "Jane Doe",
-          "userTitle": "CEO, XYZ Corporation"
+          "userImage": "http://localhost:3005/uploads/image-1744038178951-17362032.png",
+          "userName": "Ankit Kumar",
+          "userTitle": "Developer, Lirisoft"
         }
       ]
     },
@@ -119,7 +125,9 @@
           "src": "./Icons2.svg",
           "style": "absolute left-[5px] bottom-[20px]"
         },
-        "background": "/backimage5.png"
+        "background": {
+          "src": "/backimage5.png"
+        }
       }
     },
     "section8": {
@@ -149,7 +157,7 @@
       "title1": "What",
       "highlight1": "drives",
       "title2": "us",
-      "imageSrc": "/Rectangle18.png",
+      "imageSrc": "http://localhost:3005/uploads/image-1744028592642-416405913.png",
       "imageAlt": "About Lirisoft",
       "highlight2": "defines",
       "title3": "us"
@@ -194,12 +202,24 @@
     "section3": {
       "title": "Our Current Partners",
       "images": [
-        "./image1.png",
-        "./image2.png",
-        "./image3.png",
-        "./image4.png",
-        "./image5.png",
-        "./image6.png"
+        {
+          "src": "./image1.png"
+        },
+        {
+          "src": "./image2.png"
+        },
+        {
+          "src": "./image3.png"
+        },
+        {
+          "src": "./image4.png"
+        },
+        {
+          "src": "./image5.png"
+        },
+        {
+          "src": "./image6.png"
+        }
       ],
       "buttonText": "Know More"
     }
@@ -623,10 +643,18 @@
       "highlight": "Us",
       "buttonText": "Send Message",
       "services": [
-        "Web Development",
-        "SEO Optimization",
-        "Digital Marketing",
-        "Other"
+        {
+          "name": "Web Development"
+        },
+        {
+          "name": "Full Stack Development"
+        },
+        {
+          "name": "Digital Marketing"
+        },
+        {
+          "name": "Other"
+        }
       ]
     },
     "section3": {
@@ -667,14 +695,20 @@
       "description": "Secure and scalable solutions for your enterprise."
     }
   },
-  "imagePath": "",
+  "imagePath": "/uploads/image-1744028348566-384315918.png",
   "PrivacyPolicy": {
-    "title": "Privacy Policy",
-    "introduction": "At Lirisoft, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your information when you visit our website or use our services.",
+    "title": {
+      "title": "Privacy Policy"
+    },
+    "introduction": {
+      "introduction": "This Privacy Policy explains how Lirisoft collects, uses, and protects your personal information when you visit our website or use our services. By using our website, you consent to the data practices described in this policy."
+    },
     "sections": [
       {
         "heading": "1. Information We Collect",
-        "content": ["We may collect the following types of information:"],
+        "content": [
+          "We may collect the following types of information:"
+        ],
         "list": [
           "Personal information such as your name, email address, phone number, and company details when you fill out forms or contact us.",
           "Technical data such as your IP address, browser type, and operating system through cookies and analytics tools.",
@@ -683,7 +717,9 @@
       },
       {
         "heading": "2. How We Use Your Information",
-        "content": ["We use the information we collect for the following purposes:"],
+        "content": [
+          "We use the information we collect for the following purposes:"
+        ],
         "list": [
           "To provide and improve our services.",
           "To respond to your inquiries and provide customer support.",
@@ -738,7 +774,9 @@
     }
   },
   "TermsOfService": {
-    "title": "Terms of Service",
+    "title": {
+      "title": "Terms of Service"
+    },
     "sections": [
       {
         "heading": "1. Use of Our Services",
@@ -761,7 +799,9 @@
         "content": "We may update these Terms of Service from time to time. Any changes will be posted on this page with an updated revision date."
       }
     ],
-    "title2": " If you have any questions about these Terms of Service, please contact us at:",
+    "title2": {
+      "title2": "If you have any questions about these Terms of Service, please contact us at:"
+    },
     "contact": {
       "address": "1660, 18th Cross Rd, MC Layout, Vijayanagar, Bengaluru",
       "email": "support.india@lirisoft.com"

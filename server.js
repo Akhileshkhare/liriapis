@@ -36,11 +36,23 @@ app.use(express.json());
 // Import homepage API
 require("./api/homepage")(app);
 
+// Serve the uploads directory as a static folder
+app.use("/uploads", express.static(path.join(__dirname, "uploads")));
+
 const SECRET_KEY = "lirisoft"; // Replace with a secure key
 
 // Configure multer for file uploads
+const storage = multer.diskStorage({
+  destination: "uploads/", // Directory to store uploaded files
+  filename: (req, file, cb) => {
+    const uniqueSuffix = Date.now() + "-" + Math.round(Math.random() * 1e9);
+    const extension = path.extname(file.originalname); // Preserve original file extension
+    cb(null, file.fieldname + "-" + uniqueSuffix + extension);
+  },
+});
+
 const upload = multer({
-  dest: "uploads/", // Directory to store uploaded files
+  storage, // Use custom storage configuration
   limits: { fileSize: 5 * 1024 * 1024 }, // Limit file size to 5MB
   fileFilter: (req, file, cb) => {
     const allowedTypes = ["image/jpeg", "image/png", "image/gif"];
@@ -81,7 +93,8 @@ app.post("/api/upload", upload.single("image"), (req, res) => {
     return res.status(400).json({ message: "No file uploaded" });
   }
 
-  const filePath = path.join(__dirname, req.file.path);
+  const publicUrl = `/uploads/${req.file.filename}`; // Public URL for the uploaded file
+  const fullUrl = `${req.protocol}://${req.get("host")}${publicUrl}`; // Full URL including host
 
   // Read and update api/homepage.json
   const homepagePath = path.join(__dirname, "api", "homepage.json");
@@ -97,15 +110,15 @@ app.post("/api/upload", upload.single("image"), (req, res) => {
       return res.status(500).json({ message: "Error parsing api/homepage.json" });
     }
 
-    // Save the uploaded file path
-    homepageData.imagePath = filePath;
+    // Save the uploaded file's public URL
+    homepageData.imagePath = publicUrl;
 
     fs.writeFile(homepagePath, JSON.stringify(homepageData, null, 2), (writeErr) => {
       if (writeErr) {
         return res.status(500).json({ message: "Error saving to api/homepage.json" });
       }
 
-      res.status(200).json({ message: "File uploaded successfully", filePath });
+      res.status(200).json({ message: "File uploaded successfully", publicUrl: fullUrl });
     });
   });
 });
