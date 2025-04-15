@@ -284,10 +284,10 @@
       "title1": "Software development",
       "highlight1": "Custom",
       "title2": "Invent, build, integrate, scale and upgrade your applications with Lirisoft! We have been harnessing digital technologies for the benefit of Fortune 500 businesses, mid and large enterprises, and startups across the variety of industries. We help you to build high-quality software solutions and products as well as deliver a wide range of related professional services.",
+      "title3":"Whether you need a tailored enterprise system, a customer-facing mobile app, or complex cloud-based infrastructure, our team ensures the final product aligns perfectly with your business goals. From initial concept to deployment and ongoing support, we follow agile methodologies to deliver scalable, secure, and innovative solutions—on time and within budget.",
       "imageSrc": "/serviceback2.png",
       "imageAlt": "Service Page Image",
-      "highlight2": "",
-      "title3": ""
+      "highlight2": ""
     },
     "section4": {
       "title1": "we work",
@@ -399,65 +399,128 @@
       "title3": "For over half a decade, Lirisoft has been passionately engaged in offering all-inclusive IT solutions to clients from diverse industry verticals, empowering businesses to thrive in the digital era with confidence and innovation."
     },
     "section2": {
-      "title1": "Take a look at some of",
-      "highlight1": "our work",
-      "appSolutions": [
-        {
-          "title2": "Responsive App for Retail Store",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle1.png",
-          "imageAlt": "Responsive App for Retail Store"
-        },
-        {
-          "title2": "SaaS-Based App for Enterprise",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle2.png",
-          "imageAlt": "SaaS-Based App for Enterprise"
-        },
-        {
-          "title2": "Solution for Healthcare Software",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle3.png",
-          "imageAlt": "Solution for Healthcare Software"
-        },
-        {
-          "title2": "Smart Home App",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle4.png",
-          "imageAlt": "Smart Home App"
-        },
-        {
-          "title2": "Fitness App for Goal Setup",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle5.png",
-          "imageAlt": "Fitness App for Goal Setup"
-        },
-        {
-          "title2": "Event Management App",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle6.png",
-          "imageAlt": "Event Management App"
-        },
-        {
-          "title2": "Supply Chain Management",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle7.png",
-          "imageAlt": "Supply Chain Management"
-        },
-        {
-          "title2": "Financial Management App",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle8.png",
-          "imageAlt": "Financial Management App"
-        },
-        {
-          "title2": "Social Networking App",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle9.png",
-          "imageAlt": "Social Networking App"
-        }
+  "title1": "Take a look at some of",
+  "highlight1": "our work",
+  "appSolutions": [
+    {
+      "title2": "Responsive App for Retail Store",
+      "highlight2": "UX / Angular / B2C",
+      "imageSrc": "/Rectangle1.png",
+      "imageAlt": "Responsive App for Retail Store",
+      "description":"The Responsive App for Retail Store helps retailers efficiently manage inventory, sales, and customer engagement across multiple devices. It provides real-time inventory tracking, automated stock alerts, and a detailed sales dashboard. Retailers can integrate loyalty programs to reward customers and personalize offers based on shopping history. The app supports multi-store operations, simplifying management across locations. It ensures data security with encrypted transactions and role-based access. Designed for both small businesses and large franchises, this app streamlines retail operations, enhances customer experience, and offers powerful reporting tools to improve decision-making and growth.",
+      "details": [
+        "Real-time inventory tracking",
+        "Sales reporting dashboard",
+        "Customer loyalty program integration",
+        "Multi-store support"
       ]
     },
+    {
+      "title2": "SaaS-Based App for Enterprise",
+      "highlight2": "UX / Angular / B2C",
+      "imageSrc": "/Rectangle2.png",
+      "imageAlt": "SaaS-Based App for Enterprise",
+      "description": "The SaaS-Based App for Enterprise offers a scalable and secure platform for managing complex business operations. Designed for large organizations, it provides tools for managing workflows, user permissions, and data analytics. The app features role-based access control, ensuring secure access to sensitive information while allowing for efficient collaboration across teams. With customizable modules, businesses can tailor the platform to their specific needs. Real-time analytics and reporting dashboards offer valuable insights, empowering decision-makers. Fully cloud-based, it enables seamless integration with other business tools, ensuring smooth operations and scalability as the enterprise grows.",
+      "details": [
+        "Scalable architecture for enterprise needs",
+        "Role-based access control for security",
+        "Analytics dashboard for business insights",
+        "Seamless onboarding and user management"
+      ]
+    },
+    {
+      "title2": "Solution for Healthcare Software",
+      "highlight2": "UX / Angular / B2C",
+      "imageSrc": "/Rectangle3.png",
+      "imageAlt": "Solution for Healthcare Software",
+      "description": "The Solution for Healthcare Software provides a comprehensive platform for managing patient data, appointments, and medical records securely and efficiently. Designed to meet industry standards like HIPAA compliance, it ensures safe storage and retrieval of sensitive health information. Features include appointment scheduling, telemedicine integration, and real-time patient data access. The app also streamlines communication between healthcare professionals, improving collaboration. With customizable modules, it adapts to different healthcare settings, from clinics to large hospitals. Robust reporting tools help track patient outcomes, manage billing, and ensure regulatory compliance, making it an ideal solution for modern healthcare facilities.",
+      "details": [
+        "HIPAA-compliant secure platform",
+        "Telemedicine integration",
+        "Appointment scheduling system",
+        "Electronic Health Record (EHR) management"
+      ]
+    },
+    {
+      "title2": "Smart Home App",
+      "highlight2": "UX / Angular / B2C",
+      "imageSrc": "/Rectangle4.png",
+      "imageAlt": "Smart Home App",
+      "description": "The Smart Home App allows users to control and automate their home devices from anywhere. Designed for compatibility with IoT-enabled devices, it lets users manage lights, thermostats, security cameras, and more, all from a single platform. With real-time monitoring and push notifications, users can receive alerts about their home’s status. Voice assistant integration enables hands-free control, enhancing convenience. The app supports customizable automation rules, such as setting schedules for lights or temperature adjustments. Security features include remote lock control and monitoring, providing peace of mind. The Smart Home App creates a smarter, safer, and more efficient home environment.",
+      "details": [
+        "IoT-enabled controls for smart devices",
+        "Real-time monitoring and alerts",
+        "Voice assistant compatibility",
+        "Energy usage tracking"
+      ]
+    },
+    {
+      "title2": "Fitness App for Goal Setup",
+      "highlight2": "UX / Angular / B2C",
+      "imageSrc": "/Rectangle5.png",
+      "imageAlt": "Fitness App for Goal Setup",
+      "description": "The Fitness App for Goal Setup is designed to help users achieve their health and fitness goals with personalized tracking and recommendations. Users can set specific fitness targets, such as weight loss, muscle gain, or endurance, and the app provides tailored workout plans and progress tracking. It integrates with wearable devices to track physical activity, heart rate, and calories burned. The app also offers progress analytics, helping users stay motivated with detailed insights. Goal-setting features include reminders and milestone achievements, making it easier for users to stay on track and reach their fitness objectives effectively.",
+      "details": [
+        "Personalized goal tracking",
+        "Wearable device integration",
+        "Progress analytics and recommendations",
+        "Daily reminders and workout tips"
+      ]
+    },
+    {
+      "title2": "Event Management App",
+      "highlight2": "UX / Angular / B2C",
+      "imageSrc": "/Rectangle6.png",
+      "imageAlt": "Event Management App",
+      "description": "The Event Management App simplifies the planning and execution of events, offering tools for scheduling, ticketing, and attendee management. Event organizers can create and customize event pages, track ticket sales, and send invitations or reminders to guests. The app supports real-time attendee management, including check-in and notifications. Social media integration allows event promotion and sharing. With built-in analytics, organizers can track engagement, monitor ticket sales, and measure event success. Whether for conferences, weddings, or corporate events, this app streamlines logistics, enhances attendee experience, and ensures smooth execution, making event planning more efficient and effective.",
+      "details": [
+        "Event scheduling and ticketing",
+        "Attendee registration and notifications",
+        "Social media promotion tools",
+        "Analytics for event performance"
+      ]
+    },
+    {
+      "title2": "Supply Chain Management",
+      "highlight2": "UX / Angular / B2C",
+      "imageSrc": "/Rectangle7.png",
+      "imageAlt": "Supply Chain Management",
+      "description": "The Supply Chain Management app optimizes the flow of goods and services, offering real-time tracking, logistics, and inventory management. Designed to streamline operations, it helps businesses monitor suppliers, manage stock levels, and forecast demand. The app provides data-driven insights into supply chain performance, enabling better decision-making. With features like order tracking, shipment management, and supplier integration, users can ensure timely deliveries and reduce bottlenecks. The app also supports multi-location management, offering a comprehensive view of global operations. Whether for small enterprises or large corporations, it provides the tools necessary to enhance efficiency and reduce operational costs.",
+      "details": [
+        "Real-time inventory monitoring",
+        "Vendor and supplier coordination",
+        "Logistics and delivery tracking",
+        "Demand forecasting analytics"
+      ]
+    },
+    {
+      "title2": "Financial Management App",
+      "highlight2": "UX / Angular / B2C",
+      "imageSrc": "/Rectangle8.png",
+      "imageAlt": "Financial Management App",
+      "description": "The Financial Management App is a powerful tool for personal and business finance tracking. It helps users manage budgets, track expenses, and monitor investments all in one place. With features like automated expense categorization, bill reminders, and financial goal tracking, users can stay on top of their finances. The app integrates with bank accounts and credit cards, providing real-time updates on balances and transactions. Advanced reporting tools allow users to generate detailed financial statements and insights. Whether for managing personal savings or business finances, this app simplifies financial planning, offering greater control and transparency over spending.",
+      "details": [
+        "Budget planning and expense tracking",
+        "Bank account and credit card syncing",
+        "Financial goals and reporting",
+        "Security with two-factor authentication"
+      ]
+    },
+    {
+      "title2": "Social Networking App",
+      "highlight2": "UX / Angular / B2C",
+      "imageSrc": "/Rectangle9.png",
+      "imageAlt": "Social Networking App",
+      "description": "The Social Networking App connects people by allowing them to create profiles, share updates, and interact in real-time. It offers features like instant messaging, multimedia sharing, and community-building tools, making it easy to stay in touch with friends, family, and colleagues. Users can create groups, participate in forums, and follow other users with similar interests. Privacy settings give users control over what they share, while content moderation tools ensure a safe environment. The app integrates with other social platforms, allowing seamless content sharing and interaction. Ideal for both casual users and professionals, it fosters communication and engagement.",
+      "details": [
+        "User profiles and friend connections",
+        "Real-time messaging and notifications",
+        "Multimedia sharing and feeds",
+        "Privacy and content moderation tools"
+      ]
+    }
+  ]
+},
     "section4": {
       "title1": "The",
       "highlight1": "Technology",
