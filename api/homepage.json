@@ -2,10 +2,10 @@
   "Home": {
     "section1": {
       "title": "Lirisoft Vision Into Innovation",
-      "description": "Fueled by a passion for digital transformation, we harness the latest technological breakthroughs to craft solutions that solve today’s challenges and future-proof your business. With deep insight into your industry and unique needs, we design smart, tailored strategies that drive growth and align with your long-term goals. 1234",
+      "description": "Fueled by a passion for digital transformation, we harness the latest technological breakthroughs to craft solutions that solve today’s challenges and future-proof your business. With deep insight into your industry and unique needs, we design smart, tailored strategies that drive growth and align with your long-term goals.",
       "buttonText": "Request a Consultation",
-      "buttonIcon": true,
-      "imageSrc": "http://localhost:3005/uploads/image-1744028638384-770791037.jpeg"
+      "buttonIcon": "true",
+      "imageSrc": "https://liriapis.onrender.com/uploads/image-1744028638384-770791037.jpeg"
     },
     "section2": {
       "backgroundColor": "#043A53",
@@ -61,23 +61,20 @@
       "slides": [
         {
           "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "userImage": "http://localhost:3005/uploads/image-1744038142786-526696582.png",
+          "userImage": "https://liriapis.onrender.com/uploads/image-1744038142786-526696582.png",
           "userName": "Andrew Wilkins",
           "userTitle": "Managing Director, ABC Company"
         },
         {
           "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-          "userImage": "http://localhost:3005/uploads/image-1744038178951-17362032.png",
+          "userImage": "https://liriapis.onrender.com/uploads/image-1744038178951-17362032.png",
           "userName": "Ankit Kumar",
           "userTitle": "Developer, Lirisoft"
         }
       ]
     },
     "section6": {
-      "heading": {
-        "title": "Read our",
-        "highlight": "Case Studies"
-      },
+      "heading": "[object Object]",
       "caseStudies": [
         {
           "id": 1,
@@ -146,10 +143,7 @@
         "About",
         "Contact"
       ],
-      "about": {
-        "title": "About Us",
-        "email": "support@lirisoft.com"
-      }
+      "about": "[object Object]"
     }
   },
   "About": {
@@ -157,7 +151,7 @@
       "title1": "What",
       "highlight1": "drives",
       "title2": "us",
-      "imageSrc": "http://localhost:3005/uploads/image-1744028592642-416405913.png",
+      "imageSrc": "https://liriapis.onrender.com/uploads/image-1744028592642-416405913.png",
       "imageAlt": "About Lirisoft",
       "highlight2": "defines",
       "title3": "us"
@@ -403,8 +397,86 @@
       "highlight1": "our work",
       "appSolutions": [
         {
+          "title2": "Human Resource Management (HRM) System",
+          "highlight2": "ReactJS / Spring Boot",
+          "imageSrc": "https://liriapis.onrender.com/uploads/image-1744973099458-579111839.png",
+          "imageAlt": "Human Resource Management (HRM) System",
+          "description": "A Human Resource Management (HRM) System is a comprehensive digital solution designed to streamline and automate all core HR functions within an organization. It acts as a centralized hub for managing employee data, tracking performance, handling payroll, administering benefits, and overseeing recruitment and onboarding processes. By digitizing HR activities, an HRM system not only reduces administrative overhead but also enhances the overall employee experience through self-service capabilities and real-time access to essential information.",
+          "details": [
+            "Employee information management",
+            "Recruitment and onboarding",
+            "Payroll and benefits administration",
+            "Holidays management",
+            "Leave and task tracking",
+            "Training and development",
+            "Analytics and reporting"
+          ]
+        },
+        {
+          "title2": "Field Activity Tracker",
+          "highlight2": "Flutter / ReactJS / Spring Boot",
+          "imageSrc": "https://liriapis.onrender.com/uploads/image-1744974577443-780787477.png",
+          "imageAlt": "Field Activity Tracker",
+          "description": "The Field Activity Tracker is a robust system designed to monitor, manage, and record activities performed by field personnel in real time. It provides organizations with the tools they need to efficiently track on-site operations, ensure accountability, and optimize field resource management.",
+          "details": " Real-Time Activity Logging, GPS Location Tracking, Task Assignment & Scheduling, Photo and Document Upload, Offline Mode, Dashboard and Analytics, Notifications & Alerts"
+        },
+        {
+          "title2": "SMB Messaging",
+          "highlight2": "ReactJS / Spring Boot",
+          "imageSrc": "https://liriapis.onrender.com/uploads/image-1744975346788-69358499.png",
+          "imageAlt": "SMB Messaging",
+          "description": "In today’s fast-paced business landscape, small and medium-sized businesses (SMBs) need reliable, efficient, and scalable communication solutions to stay connected with customers, vendors, and internal teams. An SMB Messaging Platform is designed specifically to empower smaller enterprises with tools that were once reserved for large corporations—without the overhead or complexity. These platforms streamline conversations across multiple channels like SMS, MMS, chat, and social media, offering a unified interface to manage all interactions in one place.",
+          "details": [
+            "Multi-channel messaging support",
+            "Automated SMS and MMS campaigns",
+            "Chatbot integration",
+            "Message scheduling and delivery tracking",
+            "Customer segmentation for targeted messaging",
+            "CRM and API integration",
+            "Analytics and reporting dashboard",
+            "Secure data encryption and compliance",
+            "Team collaboration tools"
+          ]
+        },
+        {
+          "title2": "Gen AI",
+          "highlight2": "Kotlin / Spring Boot",
+          "imageSrc": "https://liriapis.onrender.com/uploads/image-1744979038997-583893092.png",
+          "imageAlt": "Gen AI",
+          "description": "Generative AI solutions are revolutionizing the way businesses create, optimize, and scale content, processes, and experiences. By leveraging advanced machine learning models—such as large language models (LLMs), diffusion models, and generative adversarial networks (GANs)—these solutions can produce human-like text, images, audio, video, and even code. Whether it's drafting marketing copy, designing visuals, generating product ideas, or automating customer interactions, generative AI empowers organizations to unlock new levels of creativity and efficiency.\n\nFor enterprises, generative AI is more than just automation—it's about innovation. Businesses can personalize customer experiences at scale, generate training data for simulations, automate design workflows, and explore creative directions faster than ever before. These tools are highly customizable and can be fine-tuned for specific industry needs such as healthcare, finance, e-commerce, or education. Generative AI also enhances decision-making by synthesizing vast datasets into actionable insights, enabling smarter, faster business operations.",
+          "details": [
+            "Text, image, and video generation",
+            "Natural language understanding and response",
+            "AI-powered content personalization",
+            "Code generation and automation",
+            "Creative design and idea prototyping",
+            "Custom model training and fine-tuning",
+            "Data augmentation and simulation",
+            "Real-time conversational AI",
+            "Seamless integration with existing tools"
+          ]
+        },
+        {
+          "title2": "Cyber security",
+          "highlight2": "",
+          "imageSrc": "https://liriapis.onrender.com/uploads/image-1744979395695-664265178.png",
+          "imageAlt": "Cyber security",
+          "description": "In an increasingly digital world, cybersecurity has become a top priority for organizations of all sizes. Cybersecurity solutions are designed to protect systems, networks, applications, and data from cyber threats such as malware, ransomware, phishing, and unauthorized access. These solutions include a range of technologies and services—such as firewalls, intrusion detection systems, endpoint protection, encryption tools, and identity management platforms—working together to safeguard critical assets and ensure business continuity.\n\nModern cybersecurity solutions go beyond traditional defenses. They incorporate AI and machine learning to detect anomalies in real-time, automate threat response, and adapt to evolving attack patterns. From securing cloud infrastructure and remote work environments to ensuring regulatory compliance, businesses rely on cybersecurity strategies to maintain trust, protect customer data, and avoid financial and reputational damage. As cyber threats grow in complexity, proactive and intelligent security frameworks are essential for building resilient digital operations.",
+          "details": [
+            "Real-time threat detection and response",
+            "Network and endpoint protection",
+            "Multi-factor authentication",
+            "Data encryption and secure storage",
+            "Firewall and intrusion prevention systems",
+            "Security information and event management (SIEM)",
+            "Vulnerability assessment and penetration testing",
+            "Cloud security and compliance monitoring",
+            "AI-powered threat analytics"
+          ]
+        },
+        {
           "title2": "Responsive App for Retail Store",
-          "highlight2": "UX / Angular / B2C",
+          "highlight2": "UX / ReactJS /  Spring Boot",
           "imageSrc": "/Rectangle1.png",
           "imageAlt": "Responsive App for Retail Store",
           "description": "The Responsive App for Retail Store helps retailers efficiently manage inventory, sales, and customer engagement across multiple devices. It provides real-time inventory tracking, automated stock alerts, and a detailed sales dashboard. Retailers can integrate loyalty programs to reward customers and personalize offers based on shopping history. The app supports multi-store operations, simplifying management across locations. It ensures data security with encrypted transactions and role-based access. Designed for both small businesses and large franchises, this app streamlines retail operations, enhances customer experience, and offers powerful reporting tools to improve decision-making and growth.",
@@ -413,110 +485,6 @@
             "Sales reporting dashboard",
             "Customer loyalty program integration",
             "Multi-store support"
-          ]
-        },
-        {
-          "title2": "SaaS-Based App for Enterprise",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle2.png",
-          "imageAlt": "SaaS-Based App for Enterprise",
-          "description": "The SaaS-Based App for Enterprise offers a scalable and secure platform for managing complex business operations. Designed for large organizations, it provides tools for managing workflows, user permissions, and data analytics. The app features role-based access control, ensuring secure access to sensitive information while allowing for efficient collaboration across teams. With customizable modules, businesses can tailor the platform to their specific needs. Real-time analytics and reporting dashboards offer valuable insights, empowering decision-makers. Fully cloud-based, it enables seamless integration with other business tools, ensuring smooth operations and scalability as the enterprise grows.",
-          "details": [
-            "Scalable architecture for enterprise needs",
-            "Role-based access control for security",
-            "Analytics dashboard for business insights",
-            "Seamless onboarding and user management"
-          ]
-        },
-        {
-          "title2": "Solution for Healthcare Software",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle3.png",
-          "imageAlt": "Solution for Healthcare Software",
-          "description": "The Solution for Healthcare Software provides a comprehensive platform for managing patient data, appointments, and medical records securely and efficiently. Designed to meet industry standards like HIPAA compliance, it ensures safe storage and retrieval of sensitive health information. Features include appointment scheduling, telemedicine integration, and real-time patient data access. The app also streamlines communication between healthcare professionals, improving collaboration. With customizable modules, it adapts to different healthcare settings, from clinics to large hospitals. Robust reporting tools help track patient outcomes, manage billing, and ensure regulatory compliance, making it an ideal solution for modern healthcare facilities.",
-          "details": [
-            "HIPAA-compliant secure platform",
-            "Telemedicine integration",
-            "Appointment scheduling system",
-            "Electronic Health Record (EHR) management"
-          ]
-        },
-        {
-          "title2": "Smart Home App",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle4.png",
-          "imageAlt": "Smart Home App",
-          "description": "The Smart Home App allows users to control and automate their home devices from anywhere. Designed for compatibility with IoT-enabled devices, it lets users manage lights, thermostats, security cameras, and more, all from a single platform. With real-time monitoring and push notifications, users can receive alerts about their home’s status. Voice assistant integration enables hands-free control, enhancing convenience. The app supports customizable automation rules, such as setting schedules for lights or temperature adjustments. Security features include remote lock control and monitoring, providing peace of mind. The Smart Home App creates a smarter, safer, and more efficient home environment.",
-          "details": [
-            "IoT-enabled controls for smart devices",
-            "Real-time monitoring and alerts",
-            "Voice assistant compatibility",
-            "Energy usage tracking"
-          ]
-        },
-        {
-          "title2": "Fitness App for Goal Setup",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle5.png",
-          "imageAlt": "Fitness App for Goal Setup",
-          "description": "The Fitness App for Goal Setup is designed to help users achieve their health and fitness goals with personalized tracking and recommendations. Users can set specific fitness targets, such as weight loss, muscle gain, or endurance, and the app provides tailored workout plans and progress tracking. It integrates with wearable devices to track physical activity, heart rate, and calories burned. The app also offers progress analytics, helping users stay motivated with detailed insights. Goal-setting features include reminders and milestone achievements, making it easier for users to stay on track and reach their fitness objectives effectively.",
-          "details": [
-            "Personalized goal tracking",
-            "Wearable device integration",
-            "Progress analytics and recommendations",
-            "Daily reminders and workout tips"
-          ]
-        },
-        {
-          "title2": "Event Management App",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle6.png",
-          "imageAlt": "Event Management App",
-          "description": "The Event Management App simplifies the planning and execution of events, offering tools for scheduling, ticketing, and attendee management. Event organizers can create and customize event pages, track ticket sales, and send invitations or reminders to guests. The app supports real-time attendee management, including check-in and notifications. Social media integration allows event promotion and sharing. With built-in analytics, organizers can track engagement, monitor ticket sales, and measure event success. Whether for conferences, weddings, or corporate events, this app streamlines logistics, enhances attendee experience, and ensures smooth execution, making event planning more efficient and effective.",
-          "details": [
-            "Event scheduling and ticketing",
-            "Attendee registration and notifications",
-            "Social media promotion tools",
-            "Analytics for event performance"
-          ]
-        },
-        {
-          "title2": "Supply Chain Management",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle7.png",
-          "imageAlt": "Supply Chain Management",
-          "description": "The Supply Chain Management app optimizes the flow of goods and services, offering real-time tracking, logistics, and inventory management. Designed to streamline operations, it helps businesses monitor suppliers, manage stock levels, and forecast demand. The app provides data-driven insights into supply chain performance, enabling better decision-making. With features like order tracking, shipment management, and supplier integration, users can ensure timely deliveries and reduce bottlenecks. The app also supports multi-location management, offering a comprehensive view of global operations. Whether for small enterprises or large corporations, it provides the tools necessary to enhance efficiency and reduce operational costs.",
-          "details": [
-            "Real-time inventory monitoring",
-            "Vendor and supplier coordination",
-            "Logistics and delivery tracking",
-            "Demand forecasting analytics"
-          ]
-        },
-        {
-          "title2": "Financial Management App",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle8.png",
-          "imageAlt": "Financial Management App",
-          "description": "The Financial Management App is a powerful tool for personal and business finance tracking. It helps users manage budgets, track expenses, and monitor investments all in one place. With features like automated expense categorization, bill reminders, and financial goal tracking, users can stay on top of their finances. The app integrates with bank accounts and credit cards, providing real-time updates on balances and transactions. Advanced reporting tools allow users to generate detailed financial statements and insights. Whether for managing personal savings or business finances, this app simplifies financial planning, offering greater control and transparency over spending.",
-          "details": [
-            "Budget planning and expense tracking",
-            "Bank account and credit card syncing",
-            "Financial goals and reporting",
-            "Security with two-factor authentication"
-          ]
-        },
-        {
-          "title2": "Social Networking App",
-          "highlight2": "UX / Angular / B2C",
-          "imageSrc": "/Rectangle9.png",
-          "imageAlt": "Social Networking App",
-          "description": "The Social Networking App connects people by allowing them to create profiles, share updates, and interact in real-time. It offers features like instant messaging, multimedia sharing, and community-building tools, making it easy to stay in touch with friends, family, and colleagues. Users can create groups, participate in forums, and follow other users with similar interests. Privacy settings give users control over what they share, while content moderation tools ensure a safe environment. The app integrates with other social platforms, allowing seamless content sharing and interaction. Ideal for both casual users and professionals, it fosters communication and engagement.",
-          "details": [
-            "User profiles and friend connections",
-            "Real-time messaging and notifications",
-            "Multimedia sharing and feeds",
-            "Privacy and content moderation tools"
           ]
         }
       ]
@@ -547,149 +515,6 @@
         {
           "src": "/Group110.png",
           "title": "Cyber Security"
-        }
-      ]
-    },
-    "section5": {
-      "images": [
-        {
-          "Image": "./Vector4.png",
-          "Text": "53+",
-          "Description": "Completed Projects"
-        },
-        {
-          "Image": "./Vector5.png",
-          "Text": "37M",
-          "Description": "Users Worldwide"
-        },
-        {
-          "Image": "./Vector6.png",
-          "Text": "4.3+",
-          "Description": "App Ratings"
-        }
-      ]
-    },
-    "section6": {
-      "title1": "We",
-      "highlight1": "Cover",
-      "highlight2": "Industries",
-      "tabs": [
-        {
-          "src": "/Group146.png",
-          "title": "Fintech",
-          "description": "Helping financial businesses improve and automate the delivery and use of financial services.",
-          "description1": "We empower financial institutions with cutting-edge solutions to streamline operations, enhance customer experience, and stay compliant with evolving regulations. Our fintech applications are designed to support digital banking, investment platforms, and secure transaction processing.",
-          "description2": "From mobile wallets to fraud detection systems, our services transform traditional financial services into innovative digital experiences. We build platforms that are scalable, secure, and future-ready.",
-          "features": [
-            "Custom banking platforms",
-            "Digital wallet integration",
-            "Automated KYC and AML compliance",
-            "Real-time payment processing"
-          ]
-        },
-        {
-          "src": "/Group147.png",
-          "title": "Media and Entertainment",
-          "description": "Crafting superlative M&E solutions using the latest technology to revolutionize the media and entertainment industry.",
-          "description1": "We create immersive digital experiences for media companies by integrating streaming technology, content management systems, and audience analytics. Our solutions enable creators and distributors to reach wider audiences efficiently.",
-          "description2": "From OTT platforms to content monetization tools, we help clients adapt to changing viewer behaviors and monetize content effectively in a dynamic digital ecosystem.",
-          "features": [
-            "OTT & video streaming platforms",
-            "Real-time content analytics",
-            "Content distribution solutions",
-            "Interactive user interfaces"
-          ]
-        },
-        {
-          "src": "/Group148.png",
-          "title": "Healthcare",
-          "description": "Transforming the future of healthcare with innovative technology solutions.",
-          "description1": "We design secure and compliant digital healthcare systems to improve patient care, streamline operations, and enhance data accessibility. Our solutions include EHR systems, telemedicine platforms, and appointment scheduling tools.",
-          "description2": "With a deep understanding of HIPAA and global standards, we ensure that our healthcare solutions are not only innovative but also safe and reliable.",
-          "features": [
-            "HIPAA-compliant platforms",
-            "Telemedicine integrations",
-            "Patient portals",
-            "Medical data analytics"
-          ]
-        },
-        {
-          "src": "/Group149.png",
-          "title": "CPG Retail",
-          "description": "Building innovative technology solutions for consumer goods, retail and electronics businesses to help enhance customer digital experience.",
-          "description1": "We build tailored software for retail and consumer goods businesses to optimize the supply chain, enhance customer experience, and drive conversions. From POS systems to loyalty apps, we deliver impactful solutions.",
-          "description2": "Our technologies enable businesses to stay ahead in competitive markets by adopting omnichannel strategies and real-time inventory tracking.",
-          "features": [
-            "POS and inventory management",
-            "Customer loyalty apps",
-            "Omnichannel retail solutions",
-            "AI-driven product recommendations"
-          ]
-        },
-        {
-          "src": "/Group150.png",
-          "title": "Sports and Leisure",
-          "description": "We understand the sports landscape like no one and hence we use industry-leading technologies to revolutionize the gaming experience.",
-          "description1": "We deliver advanced software for sports organizations, fitness brands, and entertainment venues, covering everything from fan engagement platforms to event booking and ticketing systems.",
-          "description2": "Our solutions foster real-time interaction, immersive experiences, and better operational control for sports and leisure providers.",
-          "features": [
-            "Fan engagement platforms",
-            "Live streaming & event booking",
-            "Fitness tracking integrations",
-            "Membership management"
-          ]
-        },
-        {
-          "src": "/Group151.png",
-          "title": "Manufacturing and Logistics",
-          "description": "Helping manufacturing, supply and logistics businesses reap higher profitability by building custom technology solutions.",
-          "description1": "We develop robust systems to streamline production, monitor inventory, and optimize logistics operations. Our solutions cater to both factory automation and global supply chain visibility.",
-          "description2": "With IoT, machine learning, and real-time dashboards, we help enterprises reduce costs, improve delivery, and enhance efficiency.",
-          "features": [
-            "ERP and MRP integrations",
-            "IoT-enabled asset tracking",
-            "Logistics and fleet management",
-            "Predictive maintenance tools"
-          ]
-        },
-        {
-          "src": "/Group152.png",
-          "title": "Facilities Management",
-          "description": "Helping facilities management businesses in efficient and effective delivery of support services for the organizations they serve with our next generation technology solutions.",
-          "description1": "Our technology solutions support facilities managers in maintaining buildings, handling maintenance schedules, and improving service delivery. We bring digital transformation to energy management and asset tracking.",
-          "description2": "With intuitive dashboards and automation, we help organizations optimize operational costs while maintaining high service standards.",
-          "features": [
-            "Maintenance scheduling tools",
-            "Smart building integrations",
-            "Energy consumption analytics",
-            "Mobile workforce management"
-          ]
-        },
-        {
-          "src": "/Group153.png",
-          "title": "Social Networking",
-          "description": "Rendering result-oriented ideal technology for specific social media platforms to help clients reap all the business benefits of social media.",
-          "description1": "We develop scalable and secure platforms that enable meaningful digital connections. Whether for communities, influencers, or niche groups, our social networking apps are engaging and feature-rich.",
-          "description2": "From real-time chat to content sharing and privacy controls, we ensure a dynamic yet secure social media experience.",
-          "features": [
-            "User profile management",
-            "Real-time chat and notifications",
-            "Content feed and sharing",
-            "Privacy and moderation tools"
-          ]
-        },
-        {
-          "src": "/Group154.png",
-          "title": "Human Resources",
-          "description": "Building robust technology solutions to streamline human resource operations of an organization.",
-          "description1": "We help organizations digitize HR operations with tools for recruitment, performance tracking, onboarding, and employee engagement. Our HR tech ensures efficiency and better workforce management.",
-          "description2": "With analytics and automation, we simplify hiring processes, reduce admin tasks, and support employee growth initiatives.",
-          "features": [
-            "Automated recruitment workflows",
-            "Employee self-service portals",
-            "Performance and feedback systems",
-            "HR analytics dashboards"
-          ]
         }
       ]
     }
@@ -760,18 +585,13 @@
   "Contact": {
     "section1": {
       "title1": "Help is here when you need it",
-      "highlight1": "Support is available seven days a week. Contact our team.",
       "contactSupport": "Email support 7 days a week, with live chat on weekdays from 9AM-6PM Eastern Time.",
       "connectWithUs": "Connect with us on social media.",
       "corporateOffice": "California, USA",
       "corporateOfficeemail": "support@lirisoft.com",
       "indiaOffice": "1660, 18th Cross Rd, MC Layout, Vijayanagar, Bengaluru",
       "indinofficeemail": "support.india@lirisoft.com",
-      "socialLinks": {
-        "twitter": "https://twitter.com/yourprofile",
-        "instagram": "https://www.instagram.com/lirisoft_it/?igsh=bWNxMnV1MTZlMmdq#",
-        "linkedin": "https://www.linkedin.com/company/lirisoft/"
-      }
+      "socialLinks": "[object Object]"
     },
     "section2": {
       "title": "Write",
@@ -790,21 +610,6 @@
         {
           "name": "Other"
         }
-      ]
-    },
-    "section3": {
-      "title1": "Do you have",
-      "highlight1": "Questions?",
-      "title2": "We have answers (well, most of the times!)",
-      "imageSrc": "./Group41.png",
-      "imageAlt": "Contact Us",
-      "highlight2": "Below you'll find answers to the most common questions you may have on AdEspresso & Online Advertising. Also, please feel free to check out our. If you still can't find the answer you're looking for, just Contact us!",
-      "title3": "",
-      "questions": [
-        "Do I need a website in order to run online marketing?",
-        "How will Lirisoft help me?",
-        "What services do you offer?",
-        "How do I know which subscription is best for me?"
       ]
     }
   },
@@ -837,71 +642,16 @@
     "introduction": {
       "introduction": "This Privacy Policy explains how Lirisoft collects, uses, and protects your personal information when you visit our website or use our services. By using our website, you consent to the data practices described in this policy."
     },
-    "sections": [
-      {
-        "heading": "1. Information We Collect",
-        "content": [
-          "We may collect the following types of information:"
-        ],
-        "list": [
-          "Personal information such as your name, email address, phone number, and company details when you fill out forms or contact us.",
-          "Technical data such as your IP address, browser type, and operating system through cookies and analytics tools.",
-          "Usage data, including pages visited, time spent on the site, and other interaction details."
-        ]
-      },
-      {
-        "heading": "2. How We Use Your Information",
-        "content": [
-          "We use the information we collect for the following purposes:"
-        ],
-        "list": [
-          "To provide and improve our services.",
-          "To respond to your inquiries and provide customer support.",
-          "To send you updates, newsletters, and promotional materials (if you have opted in).",
-          "To analyze website usage and improve user experience."
-        ]
-      },
-      {
-        "heading": "3. Sharing Your Information",
-        "content": [
-          "We do not sell or rent your personal information to third parties. However, we may share your information with:"
-        ],
-        "list": [
-          "Service providers who assist us in operating our website and delivering services.",
-          "Legal authorities if required by law or to protect our rights and safety."
-        ]
-      },
-      {
-        "heading": "4. Cookies and Tracking Technologies",
-        "content": [
-          "We use cookies and similar technologies to enhance your browsing experience. You can manage your cookie preferences through your browser settings."
-        ]
-      },
-      {
-        "heading": "5. Data Security",
-        "content": [
-          "We implement appropriate technical and organizational measures to protect your data from unauthorized access, alteration, or disclosure."
-        ]
-      },
-      {
-        "heading": "6. Your Rights",
-        "content": [
-          "You have the right to access, update, or delete your personal information. To exercise these rights, please contact us at support@lirisoft.com."
-        ]
-      },
-      {
-        "heading": "7. Changes to This Policy",
-        "content": [
-          "We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date."
-        ]
-      },
-      {
-        "heading": "8. Contact Us",
-        "content": [
-          "If you have any questions about this Privacy Policy, please contact us at:"
-        ]
-      }
-    ],
+    "sections": {
+      "0": "[object Object]",
+      "1": "[object Object]",
+      "2": "[object Object]",
+      "3": "[object Object]",
+      "4": "[object Object]",
+      "5": "[object Object]",
+      "6": "[object Object]",
+      "7": "[object Object]"
+    },
     "contact": {
       "address": "1660, 18th Cross Rd, MC Layout, Vijayanagar, Bengaluru",
       "email": "support.india@lirisoft.com"
@@ -911,28 +661,13 @@
     "title": {
       "title": "Terms of Service"
     },
-    "sections": [
-      {
-        "heading": "1. Use of Our Services",
-        "content": "You agree to use our services only for lawful purposes and in accordance with these terms. You must not use our website to engage in any illegal or harmful activities."
-      },
-      {
-        "heading": "2. Intellectual Property",
-        "content": "All content on this website, including text, graphics, logos, and software, is the property of Lirisoft and is protected by copyright and other intellectual property laws. You may not reproduce, distribute, or modify any content without our prior written consent."
-      },
-      {
-        "heading": "3. User Accounts",
-        "content": "If you create an account on our website, you are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account."
-      },
-      {
-        "heading": "4. Limitation of Liability",
-        "content": "Lirisoft is not liable for any damages resulting from your use of our website or services. We provide our services 'as is' without any warranties of any kind."
-      },
-      {
-        "heading": "5. Changes to These Terms",
-        "content": "We may update these Terms of Service from time to time. Any changes will be posted on this page with an updated revision date."
-      }
-    ],
+    "sections": {
+      "0": "[object Object]",
+      "1": "[object Object]",
+      "2": "[object Object]",
+      "3": "[object Object]",
+      "4": "[object Object]"
+    },
     "title2": {
       "title2": "If you have any questions about these Terms of Service, please contact us at:"
     },
@@ -941,30 +676,73 @@
       "email": "support.india@lirisoft.com"
     }
   },
-  "contacts": [
-    {
+  "contacts": {
+    "0": {
       "service": "Web Development",
       "name": "Akhilesh Kumar Khare",
       "email": "akhileshkhare.work@gmail.com",
       "message": "test",
-      "date": 1744809080,
-      "id": 2
+      "date": "1744809080",
+      "id": "2"
     },
-    {
+    "1": {
       "service": "Full Stack Development",
       "name": "Akhilesh Kumar Khare",
       "email": "akhileshkhare.work@gmail.com",
       "message": "MSG",
-      "date": 1744809101,
-      "id": 1
+      "date": "1744809101",
+      "id": "1"
     },
-    {
+    "2": {
       "service": "Digital Marketing",
       "name": "Akhilesh Kumar ",
       "email": "akhileshkhare.work@gmail.com",
       "message": "Hello Test",
-      "date": 1744870860,
-      "id": 3
+      "date": "1744870860",
+      "id": "3"
     }
-  ]
+  },
+  "proposals": {
+    "0": {
+      "firstName": "Akhilesh",
+      "lastName": "Khare",
+      "email": "akhileshkhare.work@gmail.com",
+      "contactNumber": "09993915996",
+      "projectDescription": "Testing",
+      "date": "1744879858",
+      "id": "1"
+    },
+    "1": {
+      "firstName": "Akhilesh",
+      "lastName": "Khare",
+      "email": "akhileshkhare.work@gmail.com",
+      "contactNumber": "09993915996",
+      "projectDescription": "Testing",
+      "date": "1744885078",
+      "id": "2"
+    }
+  },
+  "consultations": {
+    "0": {
+      "name": "Akhilesh Kumar Khare",
+      "email": "akhileshkhare.work@gmail.com",
+      "message": "Testing",
+      "date": "1744879880",
+      "id": "1"
+    },
+    "1": {
+      "name": "Akhilesh Shrivastava",
+      "email": "akhileshkhare23@gmail.com",
+      "message": "Hello",
+      "date": "1744885035",
+      "id": "2"
+    },
+    "2": {
+      "name": "Mohan",
+      "email": "akhileshkhare23@gmail.com",
+      "message": "Test msg 123",
+      "date": "1744888825",
+      "id": "3"
+    }
+  }
 }
