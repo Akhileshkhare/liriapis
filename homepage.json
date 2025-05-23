@@ -200,7 +200,7 @@
       "title3": ""
     },
     "section3": {
-      "title": "Our Current Partners",
+      "title": "Our Major Partners",
       "images": [
         {
           "src": "./image1.png"
@@ -219,6 +219,12 @@
         },
         {
           "src": "./image6.png"
+        },
+         {
+          "src": "./infovisionlogo.jpg"
+        },
+        {
+          "src": "./procurewizlogo.PNG"
         }
       ],
       "buttonText": "Know More"
