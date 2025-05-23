@@ -296,7 +296,13 @@
       "imageSrc": "/back-image.png",
       "imageAlt": "Service Page Image",
       "highlight2": "1. Competitive & User Research",
-      "title3": "Competitive research can reveal trends in the marketplace that might have otherwise been missed. The ability to identify and predict trends is a huge asset for any business, helping to improve value proposition for customers."
+      "title3": "Competitive research can reveal trends in the marketplace that might have otherwise been missed. The ability to identify and predict trends is a huge asset for any business, helping to improve value proposition for customers.",
+      "sliderImages":[
+        "/Rectangle6.png",
+        "/Rectangle7.png",
+        "/Rectangle8.png",
+        "/Rectangle9.png"
+      ]
     },
     "section5": {
       "title1": "Industry Leading Managed",
