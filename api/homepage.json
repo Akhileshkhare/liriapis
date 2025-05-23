@@ -591,8 +591,11 @@
       "corporateOfficeemail": "support@lirisoft.com",
       "indiaOffice": "1660, 18th Cross Rd, MC Layout, Vijayanagar, Bengaluru",
       "indinofficeemail": "support.india@lirisoft.com",
-      "socialLinks": "[object Object]"
-    },
+      "socialLinks": {
+        "twitter": "https://twitter.com/yourprofile",
+        "instagram": "https://instagram.com/yourprofile",
+        "linkedin": "https://linkedin.com/in/yourprofile"
+      }    },
     "section2": {
       "title": "Write",
       "highlight": "Us",
@@ -642,16 +645,71 @@
     "introduction": {
       "introduction": "This Privacy Policy explains how Lirisoft collects, uses, and protects your personal information when you visit our website or use our services. By using our website, you consent to the data practices described in this policy."
     },
-    "sections": {
-      "0": "[object Object]",
-      "1": "[object Object]",
-      "2": "[object Object]",
-      "3": "[object Object]",
-      "4": "[object Object]",
-      "5": "[object Object]",
-      "6": "[object Object]",
-      "7": "[object Object]"
-    },
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": [
+          "We may collect the following types of information:"
+        ],
+        "list": [
+          "Personal information such as your name, email address, phone number, and company details when you fill out forms or contact us.",
+          "Technical data such as your IP address, browser type, and operating system through cookies and analytics tools.",
+          "Usage data, including pages visited, time spent on the site, and other interaction details."
+        ]
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": [
+          "We use the information we collect for the following purposes:"
+        ],
+        "list": [
+          "To provide and improve our services.",
+          "To respond to your inquiries and provide customer support.",
+          "To send you updates, newsletters, and promotional materials (if you have opted in).",
+          "To analyze website usage and improve user experience."
+        ]
+      },
+      {
+        "heading": "3. Sharing Your Information",
+        "content": [
+          "We do not sell or rent your personal information to third parties. However, we may share your information with:"
+        ],
+        "list": [
+          "Service providers who assist us in operating our website and delivering services.",
+          "Legal authorities if required by law or to protect our rights and safety."
+        ]
+      },
+      {
+        "heading": "4. Cookies and Tracking Technologies",
+        "content": [
+          "We use cookies and similar technologies to enhance your browsing experience. You can manage your cookie preferences through your browser settings."
+        ]
+      },
+      {
+        "heading": "5. Data Security",
+        "content": [
+          "We implement appropriate technical and organizational measures to protect your data from unauthorized access, alteration, or disclosure."
+        ]
+      },
+      {
+        "heading": "6. Your Rights",
+        "content": [
+          "You have the right to access, update, or delete your personal information. To exercise these rights, please contact us at support@lirisoft.com."
+        ]
+      },
+      {
+        "heading": "7. Changes to This Policy",
+        "content": [
+          "We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date."
+        ]
+      },
+      {
+        "heading": "8. Contact Us",
+        "content": [
+          "If you have any questions about this Privacy Policy, please contact us at:"
+        ]
+      }
+    ],
     "contact": {
       "address": "1660, 18th Cross Rd, MC Layout, Vijayanagar, Bengaluru",
       "email": "support.india@lirisoft.com"
@@ -661,13 +719,28 @@
     "title": {
       "title": "Terms of Service"
     },
-    "sections": {
-      "0": "[object Object]",
-      "1": "[object Object]",
-      "2": "[object Object]",
-      "3": "[object Object]",
-      "4": "[object Object]"
-    },
+    "sections": [
+      {
+        "heading": "1. Use of Our Services",
+        "content": "You agree to use our services only for lawful purposes and in accordance with these terms. You must not use our website to engage in any illegal or harmful activities."
+      },
+      {
+        "heading": "2. Intellectual Property",
+        "content": "All content on this website, including text, graphics, logos, and software, is the property of Lirisoft and is protected by copyright and other intellectual property laws. You may not reproduce, distribute, or modify any content without our prior written consent."
+      },
+      {
+        "heading": "3. User Accounts",
+        "content": "If you create an account on our website, you are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "Lirisoft is not liable for any damages resulting from your use of our website or services. We provide our services 'as is' without any warranties of any kind."
+      },
+      {
+        "heading": "5. Changes to These Terms",
+        "content": "We may update these Terms of Service from time to time. Any changes will be posted on this page with an updated revision date."
+      }
+    ],
     "title2": {
       "title2": "If you have any questions about these Terms of Service, please contact us at:"
     },
