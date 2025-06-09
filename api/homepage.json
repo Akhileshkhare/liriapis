@@ -60,21 +60,24 @@
       "heading": "Trust is at the Core of Everything We Do.",
       "slides": [
         {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "text": "We had an outstanding experience collaborating with Lirisoft. Their development team demonstrated exceptional expertise, reliability, and a commitment to meeting deadlines. They delivered high-quality solutions tailored to our needs, ensuring a seamless partnership. We wholeheartedly recommend Lirisoft for their professionalism and technical excellence.",
           "userImage": "https://liriapis.onrender.com/uploads/image-1744038142786-526696582.png",
-          "userName": "Andrew Wilkins",
-          "userTitle": "Managing Director, ABC Company"
+          "userName": "Mahendra",
+          "userTitle": "CEO Canyon Tech"
         },
         {
-          "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "text": "Have worked with Ishaque and Lirisoft across many projects over many years. From design to development to deployment and support, they have always delivered high quality output. And are always responsive to our needs. Flexibility combined with excellent technical skills makes Lirisoft an easy go to technology partner.",
           "userImage": "https://liriapis.onrender.com/uploads/image-1744038178951-17362032.png",
-          "userName": "Ankit Kumar",
-          "userTitle": "Developer, Lirisoft"
+          "userName": "From Sanjeev",
+          "userTitle": "CEO Prolifica"
         }
       ]
     },
     "section6": {
-      "heading": "[object Object]",
+      "heading": {
+        "title": "Read our",
+        "highlight": "Case Studies"
+      },
       "caseStudies": [
         {
           "id": 1,
