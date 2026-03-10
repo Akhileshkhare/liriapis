@@ -11,6 +11,7 @@ const port = 3005;
 
 const allowedOrigins = [
     'http://localhost:3000',
+    'https://lirisoft.com/',
     'https://lirisoftwebsite.onrender.com'
   ];
   
@@ -35,15 +36,15 @@ app.use(bodyParser.json());
 app.use(express.json());
 // Import homepage API
 require("./api/homepage")(app);
+// Import blogs API
+require("./api/blogs")(app);
 
-// Serve the uploads directory as a static folder
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 
 const SECRET_KEY = "lirisoft"; // Replace with a secure key
 
-// Configure multer for file uploads
 const storage = multer.diskStorage({
-  destination: "uploads/", // Directory to store uploaded files
+  destination: "uploads/", 
   filename: (req, file, cb) => {
     const uniqueSuffix = Date.now() + "-" + Math.round(Math.random() * 1e9);
     const extension = path.extname(file.originalname); // Preserve original file extension
@@ -52,7 +53,7 @@ const storage = multer.diskStorage({
 });
 
 const upload = multer({
-  storage, // Use custom storage configuration
+  storage,
   limits: { fileSize: 5 * 1024 * 1024 }, // Limit file size to 5MB
   fileFilter: (req, file, cb) => {
     const allowedTypes = ["image/jpeg", "image/png", "image/gif"];

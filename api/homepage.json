@@ -80,7 +80,7 @@
       },
       "caseStudies": [
         {
-          "id": 1,
+          "id": "1",
           "date": "23 Sep 2024",
           "author": "Amanda Hugh",
           "title": "What Makes an Authentic Employee Profile?",
@@ -88,7 +88,7 @@
           "image": "/backimage41.jpeg"
         },
         {
-          "id": 2,
+          "id": "2",
           "date": "17 Sep 2024",
           "author": "Sofia Kent",
           "title": "Why Does It Matter to be Authentic Employee?",
@@ -96,7 +96,7 @@
           "image": "/backimage42.jpeg"
         },
         {
-          "id": 3,
+          "id": "3",
           "date": "15 Aug 2024",
           "author": "Jason Bone",
           "title": "What Makes an Authentic Employee Profile?",
@@ -146,7 +146,10 @@
         "About",
         "Contact"
       ],
-      "about": "[object Object]"
+      "about": {
+        "title": "About Us",
+        "email": "support@lirisoft.com"
+      }
     }
   },
   "About": {
@@ -196,7 +199,7 @@
       "highlight2": "Explore Opportunities",
       "title3": ""
     },
-   "section3": {
+    "section3": {
       "title": "Our Major Partners",
       "images": [
         {
@@ -217,7 +220,7 @@
         {
           "src": "./image6.png"
         },
-         {
+        {
           "src": "./infovisionlogo.jpg"
         },
         {
@@ -300,11 +303,23 @@
       "imageAlt": "Service Page Image",
       "highlight2": "1. Competitive & User Research",
       "title3": "Competitive research can reveal trends in the marketplace that might have otherwise been missed. The ability to identify and predict trends is a huge asset for any business, helping to improve value proposition for customers.",
-      "sliderImages":[
-        {"src":"/back-image.png","alt":"Slide Image"},
-        {"src":"/Rectangle7.png","alt":"Slide Image"},
-        {"src":"/Rectangle8.png","alt":"Slide Image"},
-        {"src":"/Rectangle9.png","alt":"Slide Image"}
+      "sliderImages": [
+        {
+          "src": "/back-image.png",
+          "alt": "Slide Image"
+        },
+        {
+          "src": "/Rectangle7.png",
+          "alt": "Slide Image"
+        },
+        {
+          "src": "/Rectangle8.png",
+          "alt": "Slide Image"
+        },
+        {
+          "src": "/Rectangle9.png",
+          "alt": "Slide Image"
+        }
       ]
     },
     "section5": {
@@ -414,7 +429,7 @@
         {
           "title2": "Human Resource Management (HRM) System",
           "highlight2": "ReactJS / Spring Boot",
-          "imageSrc": "https://liriapis.onrender.com/uploads/image-1744973099458-579111839.png",
+          "imageSrc": "http://localhost:3005/uploads/image-1773127509430-817003717.png",
           "imageAlt": "Human Resource Management (HRM) System",
           "description": "A Human Resource Management (HRM) System is a comprehensive digital solution designed to streamline and automate all core HR functions within an organization. It acts as a centralized hub for managing employee data, tracking performance, handling payroll, administering benefits, and overseeing recruitment and onboarding processes. By digitizing HR activities, an HRM system not only reduces administrative overhead but also enhances the overall employee experience through self-service capabilities and real-time access to essential information.",
           "details": [
@@ -438,7 +453,7 @@
         {
           "title2": "SMB Messaging",
           "highlight2": "ReactJS / Spring Boot",
-          "imageSrc": "https://liriapis.onrender.com/uploads/image-1744975346788-69358499.png",
+          "imageSrc": "http://localhost:3005/uploads/image-1773126780853-552211602.png",
           "imageAlt": "SMB Messaging",
           "description": "In today’s fast-paced business landscape, small and medium-sized businesses (SMBs) need reliable, efficient, and scalable communication solutions to stay connected with customers, vendors, and internal teams. An SMB Messaging Platform is designed specifically to empower smaller enterprises with tools that were once reserved for large corporations—without the overhead or complexity. These platforms streamline conversations across multiple channels like SMS, MMS, chat, and social media, offering a unified interface to manage all interactions in one place.",
           "details": [
@@ -456,7 +471,7 @@
         {
           "title2": "Gen AI",
           "highlight2": "Kotlin / Spring Boot",
-          "imageSrc": "https://liriapis.onrender.com/uploads/image-1744979038997-583893092.png",
+          "imageSrc": "http://localhost:3005/uploads/image-1773127928025-167273934.png",
           "imageAlt": "Gen AI",
           "description": "Generative AI solutions are revolutionizing the way businesses create, optimize, and scale content, processes, and experiences. By leveraging advanced machine learning models—such as large language models (LLMs), diffusion models, and generative adversarial networks (GANs)—these solutions can produce human-like text, images, audio, video, and even code. Whether it's drafting marketing copy, designing visuals, generating product ideas, or automating customer interactions, generative AI empowers organizations to unlock new levels of creativity and efficiency.\n\nFor enterprises, generative AI is more than just automation—it's about innovation. Businesses can personalize customer experiences at scale, generate training data for simulations, automate design workflows, and explore creative directions faster than ever before. These tools are highly customizable and can be fine-tuned for specific industry needs such as healthcare, finance, e-commerce, or education. Generative AI also enhances decision-making by synthesizing vast datasets into actionable insights, enabling smarter, faster business operations.",
           "details": [
@@ -610,7 +625,8 @@
         "twitter": "https://twitter.com/yourprofile",
         "instagram": "https://instagram.com/yourprofile",
         "linkedin": "https://linkedin.com/in/yourprofile"
-      }    },
+      }
+    },
     "section2": {
       "title": "Write",
       "highlight": "Us",
