@@ -429,7 +429,7 @@
         {
           "title2": "Human Resource Management (HRM) System",
           "highlight2": "ReactJS / Spring Boot",
-          "imageSrc": "http://localhost:3005/uploads/image-1773127509430-817003717.png",
+          "imageSrc": "https://liriapis.onrender.com/uploads/image-1773127509430-817003717.png",
           "imageAlt": "Human Resource Management (HRM) System",
           "description": "A Human Resource Management (HRM) System is a comprehensive digital solution designed to streamline and automate all core HR functions within an organization. It acts as a centralized hub for managing employee data, tracking performance, handling payroll, administering benefits, and overseeing recruitment and onboarding processes. By digitizing HR activities, an HRM system not only reduces administrative overhead but also enhances the overall employee experience through self-service capabilities and real-time access to essential information.",
           "details": [
@@ -453,7 +453,7 @@
         {
           "title2": "SMB Messaging",
           "highlight2": "ReactJS / Spring Boot",
-          "imageSrc": "http://localhost:3005/uploads/image-1773126780853-552211602.png",
+          "imageSrc": "https://liriapis.onrender.com/uploads/image-1773126780853-552211602.png",
           "imageAlt": "SMB Messaging",
           "description": "In today’s fast-paced business landscape, small and medium-sized businesses (SMBs) need reliable, efficient, and scalable communication solutions to stay connected with customers, vendors, and internal teams. An SMB Messaging Platform is designed specifically to empower smaller enterprises with tools that were once reserved for large corporations—without the overhead or complexity. These platforms streamline conversations across multiple channels like SMS, MMS, chat, and social media, offering a unified interface to manage all interactions in one place.",
           "details": [
@@ -471,7 +471,7 @@
         {
           "title2": "Gen AI",
           "highlight2": "Kotlin / Spring Boot",
-          "imageSrc": "http://localhost:3005/uploads/image-1773127928025-167273934.png",
+          "imageSrc": "https://liriapis.onrender.com/uploads/image-1773127928025-167273934.png",
           "imageAlt": "Gen AI",
           "description": "Generative AI solutions are revolutionizing the way businesses create, optimize, and scale content, processes, and experiences. By leveraging advanced machine learning models—such as large language models (LLMs), diffusion models, and generative adversarial networks (GANs)—these solutions can produce human-like text, images, audio, video, and even code. Whether it's drafting marketing copy, designing visuals, generating product ideas, or automating customer interactions, generative AI empowers organizations to unlock new levels of creativity and efficiency.\n\nFor enterprises, generative AI is more than just automation—it's about innovation. Businesses can personalize customer experiences at scale, generate training data for simulations, automate design workflows, and explore creative directions faster than ever before. These tools are highly customizable and can be fine-tuned for specific industry needs such as healthcare, finance, e-commerce, or education. Generative AI also enhances decision-making by synthesizing vast datasets into actionable insights, enabling smarter, faster business operations.",
           "details": [
