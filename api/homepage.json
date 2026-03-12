@@ -257,10 +257,10 @@
           "imageSrc": "/ai-service-image.png"
         },
         {
-          "name": "Data Science Consulting",
+          "name": "Automation",
           "icon": "/trending-up-down.png",
-          "details": "Our Data Science Consulting services empower businesses to extract actionable insights from their data. We use advanced analytics, machine learning, and predictive modeling to help you make data-driven decisions.",
-          "additionalDetails": "We specialize in building custom data pipelines, dashboards, and AI models tailored to your business needs.",
+          "details": "Our Automation services streamline your business processes, reduce manual effort, and increase efficiency. We implement intelligent automation solutions using the latest technologies to optimize workflows and drive productivity.",
+          "additionalDetails": "We offer RPA, workflow automation, and integration services tailored to your unique business needs.",
           "imageSrc": "/data-science-image.png"
         },
         {
@@ -426,7 +426,61 @@
       "title1": "Take a look at some of",
       "highlight1": "our work",
       "appSolutions": [
+         {
+          "title2": "Gen AI",
+          "highlight2": "Kotlin / Spring Boot",
+          "imageSrc": "https://liriapis.onrender.com/uploads/image-1773127928025-167273934.png",
+          "imageAlt": "Gen AI",
+          "description": "Generative AI solutions are revolutionizing the way businesses create, optimize, and scale content, processes, and experiences. By leveraging advanced machine learning models—such as large language models (LLMs), diffusion models, and generative adversarial networks (GANs)—these solutions can produce human-like text, images, audio, video, and even code. Whether it's drafting marketing copy, designing visuals, generating product ideas, or automating customer interactions, generative AI empowers organizations to unlock new levels of creativity and efficiency.\n\nFor enterprises, generative AI is more than just automation—it's about innovation. Businesses can personalize customer experiences at scale, generate training data for simulations, automate design workflows, and explore creative directions faster than ever before. These tools are highly customizable and can be fine-tuned for specific industry needs such as healthcare, finance, e-commerce, or education. Generative AI also enhances decision-making by synthesizing vast datasets into actionable insights, enabling smarter, faster business operations.",
+          "details": [
+            "Text, image, and video generation",
+            "Natural language understanding and response",
+            "AI-powered content personalization",
+            "Code generation and automation",
+            "Creative design and idea prototyping",
+            "Custom model training and fine-tuning",
+            "Data augmentation and simulation",
+            "Real-time conversational AI",
+            "Seamless integration with existing tools"
+          ]
+        },
+         {
+          "title2": "SMB Messaging",
+          "highlight2": "ReactJS / Spring Boot",
+          "imageSrc": "https://liriapis.onrender.com/uploads/image-1773126780853-552211602.png",
+          "imageAlt": "SMB Messaging",
+          "description": "In today’s fast-paced business landscape, small and medium-sized businesses (SMBs) need reliable, efficient, and scalable communication solutions to stay connected with customers, vendors, and internal teams. An SMB Messaging Platform is designed specifically to empower smaller enterprises with tools that were once reserved for large corporations—without the overhead or complexity. These platforms streamline conversations across multiple channels like SMS, MMS, chat, and social media, offering a unified interface to manage all interactions in one place.",
+          "details": [
+            "Multi-channel messaging support",
+            "Automated SMS and MMS campaigns",
+            "Chatbot integration",
+            "Message scheduling and delivery tracking",
+            "Customer segmentation for targeted messaging",
+            "CRM and API integration",
+            "Analytics and reporting dashboard",
+            "Secure data encryption and compliance",
+            "Team collaboration tools"
+          ]
+        },
         {
+          "title2": "Cyber security",
+          "highlight2": "",
+          "imageSrc": "https://liriapis.onrender.com/uploads/image-1744979395695-664265178.png",
+          "imageAlt": "Cyber security",
+          "description": "In an increasingly digital world, cybersecurity has become a top priority for organizations of all sizes. Cybersecurity solutions are designed to protect systems, networks, applications, and data from cyber threats such as malware, ransomware, phishing, and unauthorized access. These solutions include a range of technologies and services—such as firewalls, intrusion detection systems, endpoint protection, encryption tools, and identity management platforms—working together to safeguard critical assets and ensure business continuity.\n\nModern cybersecurity solutions go beyond traditional defenses. They incorporate AI and machine learning to detect anomalies in real-time, automate threat response, and adapt to evolving attack patterns. From securing cloud infrastructure and remote work environments to ensuring regulatory compliance, businesses rely on cybersecurity strategies to maintain trust, protect customer data, and avoid financial and reputational damage. As cyber threats grow in complexity, proactive and intelligent security frameworks are essential for building resilient digital operations.",
+          "details": [
+            "Real-time threat detection and response",
+            "Network and endpoint protection",
+            "Multi-factor authentication",
+            "Data encryption and secure storage",
+            "Firewall and intrusion prevention systems",
+            "Security information and event management (SIEM)",
+            "Vulnerability assessment and penetration testing",
+            "Cloud security and compliance monitoring",
+            "AI-powered threat analytics"
+          ]
+        },
+         {
           "title2": "Human Resource Management (HRM) System",
           "highlight2": "ReactJS / Spring Boot",
           "imageSrc": "https://liriapis.onrender.com/uploads/image-1773127509430-817003717.png",
@@ -449,61 +503,7 @@
           "imageAlt": "Field Activity Tracker",
           "description": "The Field Activity Tracker is a robust system designed to monitor, manage, and record activities performed by field personnel in real time. It provides organizations with the tools they need to efficiently track on-site operations, ensure accountability, and optimize field resource management.",
           "details": " Real-Time Activity Logging, GPS Location Tracking, Task Assignment & Scheduling, Photo and Document Upload, Offline Mode, Dashboard and Analytics, Notifications & Alerts"
-        },
-        {
-          "title2": "SMB Messaging",
-          "highlight2": "ReactJS / Spring Boot",
-          "imageSrc": "https://liriapis.onrender.com/uploads/image-1773126780853-552211602.png",
-          "imageAlt": "SMB Messaging",
-          "description": "In today’s fast-paced business landscape, small and medium-sized businesses (SMBs) need reliable, efficient, and scalable communication solutions to stay connected with customers, vendors, and internal teams. An SMB Messaging Platform is designed specifically to empower smaller enterprises with tools that were once reserved for large corporations—without the overhead or complexity. These platforms streamline conversations across multiple channels like SMS, MMS, chat, and social media, offering a unified interface to manage all interactions in one place.",
-          "details": [
-            "Multi-channel messaging support",
-            "Automated SMS and MMS campaigns",
-            "Chatbot integration",
-            "Message scheduling and delivery tracking",
-            "Customer segmentation for targeted messaging",
-            "CRM and API integration",
-            "Analytics and reporting dashboard",
-            "Secure data encryption and compliance",
-            "Team collaboration tools"
-          ]
-        },
-        {
-          "title2": "Gen AI",
-          "highlight2": "Kotlin / Spring Boot",
-          "imageSrc": "https://liriapis.onrender.com/uploads/image-1773127928025-167273934.png",
-          "imageAlt": "Gen AI",
-          "description": "Generative AI solutions are revolutionizing the way businesses create, optimize, and scale content, processes, and experiences. By leveraging advanced machine learning models—such as large language models (LLMs), diffusion models, and generative adversarial networks (GANs)—these solutions can produce human-like text, images, audio, video, and even code. Whether it's drafting marketing copy, designing visuals, generating product ideas, or automating customer interactions, generative AI empowers organizations to unlock new levels of creativity and efficiency.\n\nFor enterprises, generative AI is more than just automation—it's about innovation. Businesses can personalize customer experiences at scale, generate training data for simulations, automate design workflows, and explore creative directions faster than ever before. These tools are highly customizable and can be fine-tuned for specific industry needs such as healthcare, finance, e-commerce, or education. Generative AI also enhances decision-making by synthesizing vast datasets into actionable insights, enabling smarter, faster business operations.",
-          "details": [
-            "Text, image, and video generation",
-            "Natural language understanding and response",
-            "AI-powered content personalization",
-            "Code generation and automation",
-            "Creative design and idea prototyping",
-            "Custom model training and fine-tuning",
-            "Data augmentation and simulation",
-            "Real-time conversational AI",
-            "Seamless integration with existing tools"
-          ]
-        },
-        {
-          "title2": "Cyber security",
-          "highlight2": "",
-          "imageSrc": "https://liriapis.onrender.com/uploads/image-1744979395695-664265178.png",
-          "imageAlt": "Cyber security",
-          "description": "In an increasingly digital world, cybersecurity has become a top priority for organizations of all sizes. Cybersecurity solutions are designed to protect systems, networks, applications, and data from cyber threats such as malware, ransomware, phishing, and unauthorized access. These solutions include a range of technologies and services—such as firewalls, intrusion detection systems, endpoint protection, encryption tools, and identity management platforms—working together to safeguard critical assets and ensure business continuity.\n\nModern cybersecurity solutions go beyond traditional defenses. They incorporate AI and machine learning to detect anomalies in real-time, automate threat response, and adapt to evolving attack patterns. From securing cloud infrastructure and remote work environments to ensuring regulatory compliance, businesses rely on cybersecurity strategies to maintain trust, protect customer data, and avoid financial and reputational damage. As cyber threats grow in complexity, proactive and intelligent security frameworks are essential for building resilient digital operations.",
-          "details": [
-            "Real-time threat detection and response",
-            "Network and endpoint protection",
-            "Multi-factor authentication",
-            "Data encryption and secure storage",
-            "Firewall and intrusion prevention systems",
-            "Security information and event management (SIEM)",
-            "Vulnerability assessment and penetration testing",
-            "Cloud security and compliance monitoring",
-            "AI-powered threat analytics"
-          ]
-        },
+        },       
         {
           "title2": "Responsive App for Retail Store",
           "highlight2": "UX / ReactJS /  Spring Boot",
@@ -517,6 +517,7 @@
             "Multi-store support"
           ]
         }
+        
       ]
     },
     "section4": {
