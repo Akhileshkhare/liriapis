@@ -5,7 +5,7 @@
       "description": "Fueled by a passion for digital transformation, we harness the latest technological breakthroughs to craft solutions that solve today’s challenges and future-proof your business. With deep insight into your industry and unique needs, we design smart, tailored strategies that drive growth and align with your long-term goals.",
       "buttonText": "Request a Consultation",
       "buttonIcon": "true",
-      "imageSrc": "https://liriapis.onrender.com/uploads/image-1744028638384-770791037.jpeg"
+      "imageSrc": "https://api.lirisoft.com/uploads/image-1744028638384-770791037.jpeg"
     },
     "section2": {
       "backgroundColor": "#043A53",
@@ -61,13 +61,13 @@
       "slides": [
         {
           "text": "We had an outstanding experience collaborating with Lirisoft. Their development team demonstrated exceptional expertise, reliability, and a commitment to meeting deadlines. They delivered high-quality solutions tailored to our needs, ensuring a seamless partnership. We wholeheartedly recommend Lirisoft for their professionalism and technical excellence.",
-          "userImage": "https://liriapis.onrender.com/uploads/image-1744038142786-526696582.png",
+          "userImage": "https://api.lirisoft.com/uploads/image-1744038142786-526696582.png",
           "userName": "Mahendra",
           "userTitle": "CEO Canyon Tech"
         },
         {
           "text": "Have worked with Ishaque and Lirisoft across many projects over many years. From design to development to deployment and support, they have always delivered high quality output. And are always responsive to our needs. Flexibility combined with excellent technical skills makes Lirisoft an easy go to technology partner.",
-          "userImage": "https://liriapis.onrender.com/uploads/image-1744038178951-17362032.png",
+          "userImage": "https://api.lirisoft.com/uploads/image-1744038178951-17362032.png",
           "userName": "From Sanjeev",
           "userTitle": "CEO Prolifica"
         }
@@ -157,7 +157,7 @@
       "title1": "What",
       "highlight1": "drives",
       "title2": "us",
-      "imageSrc": "https://liriapis.onrender.com/uploads/image-1744028592642-416405913.png",
+      "imageSrc": "https://api.lirisoft.com/uploads/image-1744028592642-416405913.png",
       "imageAlt": "About Lirisoft",
       "highlight2": "defines",
       "title3": "us"
@@ -452,7 +452,7 @@
          {
           "title2": "Gen AI",
           "highlight2": "Kotlin / Spring Boot",
-          "imageSrc": "https://liriapis.onrender.com/uploads/image-1773127928025-167273934.png",
+          "imageSrc": "https://api.lirisoft.com/uploads/image-1773127928025-167273934.png",
           "imageAlt": "Gen AI",
           "description": "Generative AI solutions are revolutionizing the way businesses create, optimize, and scale content, processes, and experiences. By leveraging advanced machine learning models—such as large language models (LLMs), diffusion models, and generative adversarial networks (GANs)—these solutions can produce human-like text, images, audio, video, and even code. Whether it's drafting marketing copy, designing visuals, generating product ideas, or automating customer interactions, generative AI empowers organizations to unlock new levels of creativity and efficiency.\n\nFor enterprises, generative AI is more than just automation—it's about innovation. Businesses can personalize customer experiences at scale, generate training data for simulations, automate design workflows, and explore creative directions faster than ever before. These tools are highly customizable and can be fine-tuned for specific industry needs such as healthcare, finance, e-commerce, or education. Generative AI also enhances decision-making by synthesizing vast datasets into actionable insights, enabling smarter, faster business operations.",
           "details": [
@@ -470,7 +470,7 @@
          {
           "title2": "SMB Messaging",
           "highlight2": "ReactJS / Spring Boot",
-          "imageSrc": "https://liriapis.onrender.com/uploads/image-1773126780853-552211602.png",
+          "imageSrc": "https://api.lirisoft.com/uploads/image-1773126780853-552211602.png",
           "imageAlt": "SMB Messaging",
           "description": "In today’s fast-paced business landscape, small and medium-sized businesses (SMBs) need reliable, efficient, and scalable communication solutions to stay connected with customers, vendors, and internal teams. An SMB Messaging Platform is designed specifically to empower smaller enterprises with tools that were once reserved for large corporations—without the overhead or complexity. These platforms streamline conversations across multiple channels like SMS, MMS, chat, and social media, offering a unified interface to manage all interactions in one place.",
           "details": [
@@ -488,7 +488,7 @@
         {
           "title2": "Cyber security",
           "highlight2": "",
-          "imageSrc": "https://liriapis.onrender.com/uploads/image-1744979395695-664265178.png",
+          "imageSrc": "https://api.lirisoft.com/uploads/image-1744979395695-664265178.png",
           "imageAlt": "Cyber security",
           "description": "In an increasingly digital world, cybersecurity has become a top priority for organizations of all sizes. Cybersecurity solutions are designed to protect systems, networks, applications, and data from cyber threats such as malware, ransomware, phishing, and unauthorized access. These solutions include a range of technologies and services—such as firewalls, intrusion detection systems, endpoint protection, encryption tools, and identity management platforms—working together to safeguard critical assets and ensure business continuity.\n\nModern cybersecurity solutions go beyond traditional defenses. They incorporate AI and machine learning to detect anomalies in real-time, automate threat response, and adapt to evolving attack patterns. From securing cloud infrastructure and remote work environments to ensuring regulatory compliance, businesses rely on cybersecurity strategies to maintain trust, protect customer data, and avoid financial and reputational damage. As cyber threats grow in complexity, proactive and intelligent security frameworks are essential for building resilient digital operations.",
           "details": [
@@ -506,7 +506,7 @@
          {
           "title2": "Human Resource Management (HRM) System",
           "highlight2": "ReactJS / Spring Boot",
-          "imageSrc": "https://liriapis.onrender.com/uploads/image-1773127509430-817003717.png",
+          "imageSrc": "https://api.lirisoft.com/uploads/image-1773127509430-817003717.png",
           "imageAlt": "Human Resource Management (HRM) System",
           "description": "A Human Resource Management (HRM) System is a comprehensive digital solution designed to streamline and automate all core HR functions within an organization. It acts as a centralized hub for managing employee data, tracking performance, handling payroll, administering benefits, and overseeing recruitment and onboarding processes. By digitizing HR activities, an HRM system not only reduces administrative overhead but also enhances the overall employee experience through self-service capabilities and real-time access to essential information.",
           "details": [
@@ -522,7 +522,7 @@
         {
           "title2": "Field Activity Tracker",
           "highlight2": "Flutter / ReactJS / Spring Boot",
-          "imageSrc": "https://liriapis.onrender.com/uploads/image-1744974577443-780787477.png",
+          "imageSrc": "https://api.lirisoft.com/uploads/image-1744974577443-780787477.png",
           "imageAlt": "Field Activity Tracker",
           "description": "The Field Activity Tracker is a robust system designed to monitor, manage, and record activities performed by field personnel in real time. It provides organizations with the tools they need to efficiently track on-site operations, ensure accountability, and optimize field resource management.",
           "details": " Real-Time Activity Logging, GPS Location Tracking, Task Assignment & Scheduling, Photo and Document Upload, Offline Mode, Dashboard and Analytics, Notifications & Alerts"
