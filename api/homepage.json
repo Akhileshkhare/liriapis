@@ -305,13 +305,13 @@
       "title3": "Competitive research can reveal trends in the marketplace that might have otherwise been missed. The ability to identify and predict trends is a huge asset for any business, helping to improve value proposition for customers.",
       "sliderImages": [
         {
-          "src": "/Rectangle7.png",
+          "src": "/Rectangle8.png",
           "alt": "Slide Image",
           "highlight2": "1. Requirements Gathering & Planning",
           "title3": "Translate the validated idea into functional and technical requirements. Define product vision, goals, key features, and success metrics. Create a product roadmap and resource plan."
         },
         {
-          "src": "/serviceback1.png",
+          "src": "/Rectangle7.png",
           "alt": "Slide Image",
           "highlight2": "2. UI/UX Design",
           "title3": "Design user-centric interfaces and experiences. Start with wireframes and move to interactive prototypes, ensuring usability, accessibility, and intuitive interaction."
@@ -331,7 +331,7 @@
       
         },
         {
-          "src": "/Rectangle8.png",
+          "src": "/serviceback1.png",
           "alt": "Slide Image",
           "highlight2": "5. Launch & Deployment",
           "title3": "Deploy the product to production. Prepare support infrastructure, documentation, and monitor systems for early issues post-launch."
@@ -341,7 +341,8 @@
           "src": "/back-image.png",
           "alt": "Slide Image",
           "highlight2": "6. Post-Launch Support & Iteration",
-          "title3": "Gather user feedback, fix bugs, and plan enhancements. Continuously improve based on analytics, user behavior, and business goals."
+          "title3": "Gather user feedback, fix bugs, and plan enhancements. Continuously improve based on analytics, user behavior, and business goals.",
+          "imageSrc": "/post-launch-support-new.jpeg"
         }
       ]
     },
