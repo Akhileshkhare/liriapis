@@ -451,6 +451,7 @@
       "appSolutions": [
          {
           "title2": "Gen AI",
+            "slug": "gen-ai",
           "highlight2": "Kotlin / Spring Boot",
           "imageSrc": "https://api.lirisoft.com/uploads/image-1773127928025-167273934.png",
           "imageAlt": "Gen AI",
@@ -469,6 +470,7 @@
         },
          {
           "title2": "SMB Messaging",
+            "slug": "smb-messaging",
           "highlight2": "ReactJS / Spring Boot",
           "imageSrc": "https://api.lirisoft.com/uploads/image-1773126780853-552211602.png",
           "imageAlt": "SMB Messaging",
@@ -487,6 +489,7 @@
         },
         {
           "title2": "Cyber security",
+            "slug": "cyber-security",
           "highlight2": "",
           "imageSrc": "https://api.lirisoft.com/uploads/image-1744979395695-664265178.png",
           "imageAlt": "Cyber security",
@@ -505,6 +508,7 @@
         },
          {
           "title2": "Human Resource Management (HRM) System",
+             "slug": "hrm-system",
           "highlight2": "ReactJS / Spring Boot",
           "imageSrc": "https://api.lirisoft.com/uploads/image-1773127509430-817003717.png",
           "imageAlt": "Human Resource Management (HRM) System",
@@ -521,6 +525,7 @@
         },
         {
           "title2": "Field Activity Tracker",
+          "slug": "field-activity-tracker",
           "highlight2": "Flutter / ReactJS / Spring Boot",
           "imageSrc": "https://api.lirisoft.com/uploads/image-1744974577443-780787477.png",
           "imageAlt": "Field Activity Tracker",
@@ -529,6 +534,7 @@
         },       
         {
           "title2": "Responsive App for Retail Store",
+          "slug": "responsive-app-for-retail-store",
           "highlight2": "UX / ReactJS /  Spring Boot",
           "imageSrc": "/Rectangle1.png",
           "imageAlt": "Responsive App for Retail Store",
