@@ -338,11 +338,10 @@
       
         },
         {
-          "src": "/back-image.png",
+          "src": "/post-launch-support.png",
           "alt": "Slide Image",
           "highlight2": "6. Post-Launch Support & Iteration",
-          "title3": "Gather user feedback, fix bugs, and plan enhancements. Continuously improve based on analytics, user behavior, and business goals.",
-          "imageSrc": "/post-launch-support-new.jpeg"
+          "title3": "Gather user feedback, fix bugs, and plan enhancements. Continuously improve based on analytics, user behavior, and business goals."
         }
       ]
     },
